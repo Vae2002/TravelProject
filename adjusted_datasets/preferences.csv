@@ -1,0 +1,101 @@
+User_ID,Preferred_Type,Preferred_Hotel_Chains,Preferred_Cuisines,Preferred_Activities,Bucket_List_Destinations
+596f4539-3a69-4879-af5c-1d88861dc494,Culinary,Hilton,"Japanese, Italian, Mexican","Museum Visits, Hiking, Shopping","Bali, Machu Picchu"
+0474a5c8-8fbe-48c3-acb9-8238a01ddb14,Culinary,Accor,"Japanese, Indian","Hiking, Museum Visits","Santorini, Machu Picchu"
+91cc3d8d-a0d8-48ff-9be0-5721dd495e52,Culture,InterContinental,"Indian, French, Mexican","Snorkeling, Shopping, Museum Visits","Santorini, Dubai, Machu Picchu"
+ccd3a3e6-47e8-4a7b-b4d1-e9bb17882ce9,Adventure,Hyatt,Japanese,"Museum Visits, Hiking, Snorkeling","Machu Picchu, Bali, Sydney"
+96b48c44-aa67-461c-8524-b52b0e3a3f99,Luxury,"Hilton, Marriott","Japanese, Indian, Italian","Shopping, Snorkeling, Museum Visits",Sydney
+3b0ed5d9-2dcc-419f-ab19-0ea3fab22daf,Beach,Hyatt,"Japanese, Italian, Indian",Museum Visits,"Dubai, Sydney"
+783e2acd-5382-4a7f-9858-0707aeff0db8,Adventure,"Accor, Marriott","Japanese, Indian, Italian",Snorkeling,Bali
+7b956956-4f79-4225-9ee2-ae7d8fd2d0e4,Budget,Hilton,"French, Italian, Indian","Hiking, Skiing, Museum Visits","Dubai, Machu Picchu"
+a1c0486b-a086-40e3-907b-1aa33292c872,Culture,"Marriott, Accor, Hyatt","Japanese, Italian","Museum Visits, Snorkeling",Machu Picchu
+bcdb895b-9a6a-43f7-addd-eac346e8ec8b,Adventure,"Marriott, InterContinental",Indian,Museum Visits,"Bali, Machu Picchu"
+aa32dc87-52a9-46a3-8e5d-b67390a7d998,Culture,"Hyatt, Accor, Marriott","Japanese, Mexican, Indian",Snorkeling,Sydney
+138015f5-038f-43d1-8d19-0fff5c25a235,Luxury,Hilton,Japanese,"Hiking, Shopping, Museum Visits","Santorini, Machu Picchu"
+b8ddf8b9-35d3-4e7c-b560-c5a7ecb2b397,Adventure,"Hilton, InterContinental, Accor","Italian, Indian, French","Shopping, Skiing","Machu Picchu, Dubai, Bali"
+a69ee517-9699-4842-adc2-0fc9a1335d9f,Culinary,Accor,"French, Mexican","Hiking, Snorkeling","Sydney, Santorini, Bali"
+4b7c338f-3a9b-4020-96b9-441c4029f34d,Luxury,"Hyatt, Accor",Italian,"Shopping, Hiking","Dubai, Machu Picchu, Sydney"
+248bcbd0-89af-4ec2-9da4-89ced25b9687,Luxury,"Hilton, Accor","Mexican, Japanese, Indian","Museum Visits, Snorkeling, Skiing","Dubai, Bali, Santorini"
+ce6a4956-072f-4962-953f-ff93e6e496b5,Adventure,"Marriott, Accor","Mexican, French, Japanese",Museum Visits,Sydney
+e31d7cc4-dda9-4eea-b576-0ac6f482d8bd,Culinary,Hilton,Mexican,"Museum Visits, Shopping, Hiking",Bali
+61c9c712-d9f4-4b42-91c1-353d0fd3afe0,Luxury,"InterContinental, Hilton, Hyatt","Indian, Japanese","Skiing, Museum Visits, Snorkeling",Bali
+a4d77be6-e923-4952-99b3-18da78731e33,Beach,"Hilton, InterContinental",Italian,"Museum Visits, Skiing","Machu Picchu, Sydney"
+1f48602e-502d-42eb-a804-62bacfc8ab92,Luxury,"Hyatt, Accor","Mexican, French, Italian","Snorkeling, Skiing, Shopping",Sydney
+2459f0e0-e5fc-4698-8b54-c235c297a99e,Culture,"Hyatt, Marriott","Indian, Mexican","Snorkeling, Shopping, Skiing","Machu Picchu, Bali, Dubai"
+1317dc95-4ea9-4958-86e5-04cd38c4609a,Adventure,"Hilton, Hyatt, Accor",Mexican,"Shopping, Skiing","Sydney, Dubai, Santorini"
+069cd762-b293-4301-9065-f88ff205464c,Culture,"InterContinental, Marriott, Accor","French, Italian",Museum Visits,"Machu Picchu, Bali, Sydney"
+97f0a7d5-7904-4649-ab8e-e41ff5cd02cf,Luxury,"Marriott, Hyatt, InterContinental",Japanese,Shopping,"Santorini, Bali, Sydney"
+f6fbd8b0-b079-4219-aebd-d58000384cba,Budget,"Hilton, Hyatt","Indian, Mexican","Skiing, Snorkeling, Hiking","Machu Picchu, Bali"
+009b16e5-86b8-4ce2-8b7e-469eb06cd701,Culinary,"Marriott, Hilton, InterContinental","Mexican, Italian","Shopping, Museum Visits, Hiking",Santorini
+081fe9c5-22a0-4763-b94c-472ffa56e578,Budget,"Marriott, InterContinental, Hyatt","Indian, Italian, Japanese","Skiing, Hiking, Museum Visits","Machu Picchu, Bali, Dubai"
+913fe320-ffc4-4e5e-aa72-59ba50e9ff49,Culinary,"InterContinental, Accor, Marriott","Japanese, French",Shopping,Machu Picchu
+40446db4-9c5a-4dd0-a96e-9c8b99ceb636,Adventure,Hyatt,"Mexican, Italian","Skiing, Shopping","Sydney, Bali"
+50542669-c358-430b-80f6-2117217f62ac,Luxury,"Accor, Hyatt, Marriott","Italian, Japanese, Indian","Skiing, Hiking","Dubai, Sydney, Machu Picchu"
+a8ef0b80-5a39-4f25-a244-1ede7b0f5a9f,Culture,"Hyatt, Hilton",French,"Skiing, Snorkeling","Machu Picchu, Dubai"
+e0c5c0c4-ab20-480d-917b-4c2a3f7c4176,Beach,"Hyatt, Accor","Indian, Japanese, Italian","Skiing, Snorkeling","Sydney, Santorini"
+73ca841d-14b2-4d2e-b44d-435a87a4374d,Budget,"Accor, InterContinental, Hyatt","French, Indian, Japanese","Snorkeling, Skiing, Hiking",Santorini
+bcf2aa15-0a78-4d98-b55e-6d353f036d8d,Culture,"InterContinental, Hyatt, Accor",Mexican,Snorkeling,Sydney
+a50cb6a6-5c19-430c-ae05-7ea1e245380c,Culinary,"Hyatt, Marriott","French, Mexican",Museum Visits,Sydney
+a54fc559-5bed-48e5-b2a4-dff295a0593c,Budget,"Hyatt, Hilton, InterContinental",Indian,"Hiking, Museum Visits, Snorkeling","Dubai, Bali, Machu Picchu"
+74877a21-02a5-43ad-aa43-5212271f94c5,Adventure,Marriott,"French, Indian","Skiing, Shopping, Hiking",Santorini
+a4d1e46e-4ca4-4224-adb0-b49aa164e993,Culinary,"Accor, Hyatt",Italian,"Shopping, Skiing",Sydney
+6e5d4b61-bfa6-41b9-afa7-04b7d418f44b,Luxury,"Hilton, Accor","Indian, Japanese",Skiing,Sydney
+357392a8-c7eb-42b7-8bc7-01437c986190,Beach,"InterContinental, Hyatt","Indian, French, Mexican","Hiking, Museum Visits","Santorini, Sydney, Dubai"
+c8db93c6-7f8b-4d35-a720-a0a5088e531d,Luxury,Accor,"Japanese, Mexican, Italian",Snorkeling,"Santorini, Sydney"
+14f84317-a767-4f54-9829-5fb390719d6f,Adventure,"Hilton, InterContinental",Mexican,Skiing,"Bali, Santorini, Dubai"
+b4bf3dc3-0eed-45a8-ac99-efa13acabc7b,Culinary,"Marriott, Accor","Indian, Japanese",Skiing,"Machu Picchu, Santorini, Dubai"
+cfaa2559-7051-4309-8ed8-d2c3a4dc117e,Culture,Hilton,"Mexican, Japanese","Hiking, Shopping","Machu Picchu, Bali"
+8c5dbba3-34d5-43bd-942c-27256bb60c94,Culture,Accor,"Indian, French, Italian","Museum Visits, Hiking","Santorini, Sydney"
+3e7c40b7-16b6-4362-96da-42c939461940,Adventure,InterContinental,Japanese,"Skiing, Shopping, Hiking","Dubai, Machu Picchu"
+d79b64b7-e5d3-4ebc-b417-9ecfcc0a36e0,Luxury,"Marriott, Hyatt","Mexican, Indian",Skiing,"Machu Picchu, Santorini"
+ccddf825-2949-4f7f-8443-dbfc4bfb792d,Beach,"InterContinental, Hilton, Accor","Indian, French",Hiking,"Machu Picchu, Santorini"
+0c2bd3fe-2bdd-459e-adac-3eb33bea7478,Budget,"InterContinental, Hilton",Indian,Skiing,Santorini
+19b1d5d0-b72c-4eae-9c01-0f68d9b51c14,Beach,"Hilton, Hyatt, Accor","Japanese, Mexican","Shopping, Museum Visits","Bali, Dubai"
+9dc0e542-e1c4-433c-8b66-f6e753c22802,Culinary,"Hyatt, Hilton, Accor",Italian,"Hiking, Museum Visits, Shopping","Santorini, Machu Picchu, Bali"
+971a9e3e-32cd-454e-9f0b-097a91379001,Culinary,"Hyatt, Hilton, InterContinental","Indian, French, Mexican","Hiking, Skiing","Santorini, Dubai"
+307c2f0f-fa0f-40f6-8453-47906cc9fa59,Luxury,"Marriott, InterContinental","Mexican, Indian, Italian",Shopping,"Sydney, Santorini, Dubai"
+49dfa371-a0f4-43de-b57b-2b5ab32a6809,Beach,Accor,"Mexican, Indian",Skiing,"Santorini, Bali"
+d4440c07-0292-4318-aa1f-35f15ee4d586,Beach,Accor,"Japanese, Indian, French","Museum Visits, Hiking, Shopping",Dubai
+5f9359a9-b227-42d4-a35e-f582de5f3b4d,Beach,"Marriott, Hilton","Italian, Japanese, Mexican","Hiking, Snorkeling","Sydney, Bali"
+d8b6dd4a-5f59-4256-9b85-5993c2b59aa4,Luxury,"Hyatt, Accor, Marriott","Italian, Japanese, Mexican","Hiking, Snorkeling, Shopping","Sydney, Dubai"
+73d3efd7-4e9e-4774-b2c6-29f2dd607e89,Culture,Hyatt,"French, Italian",Snorkeling,Sydney
+99382463-3911-4884-b0ef-ae8630ee6f3b,Budget,"Hyatt, Marriott","Japanese, French, Indian",Shopping,"Dubai, Bali, Sydney"
+0474915d-d4d6-4875-85ec-a89b96206d97,Luxury,Hyatt,"Mexican, Italian, Indian",Skiing,Sydney
+f160e10c-fe6f-4236-b546-11fc90c017e3,Luxury,Accor,"French, Indian, Japanese",Skiing,"Dubai, Sydney"
+16658ba8-3d21-441b-af40-5b5890f2985b,Budget,"Hilton, Marriott",Indian,"Skiing, Shopping","Machu Picchu, Dubai, Bali"
+d2c91f7e-6bf5-4a64-ad57-31c8e62cad02,Culinary,"Hilton, Hyatt, InterContinental","French, Indian","Museum Visits, Skiing","Machu Picchu, Sydney, Dubai"
+9dfc91de-b843-4071-b8da-3085be3f2096,Culinary,Hyatt,"Indian, Japanese","Shopping, Snorkeling","Dubai, Machu Picchu, Bali"
+1f2d7539-3ac8-40a2-b645-f264a0ad61bf,Budget,InterContinental,"French, Mexican","Museum Visits, Snorkeling, Shopping","Bali, Sydney"
+1f6371c0-5155-48ad-8335-c6eac6a2dc2d,Beach,Hilton,"French, Japanese","Hiking, Museum Visits","Bali, Santorini, Sydney"
+fdfa28cb-3387-49cf-9aad-e562ff25069f,Beach,"Accor, InterContinental",Japanese,Hiking,"Sydney, Dubai, Machu Picchu"
+3f122329-0fd7-42c7-bea6-b1eab9503d04,Adventure,Hyatt,"Indian, Japanese, French",Hiking,Sydney
+9a4bea68-b035-4bd0-a96a-69e2cc784f66,Culinary,"Marriott, Hyatt","Italian, Mexican, Japanese","Museum Visits, Snorkeling","Bali, Dubai"
+abaa4fb4-ce61-449b-80d3-c97e5e05de1b,Culinary,"InterContinental, Accor, Hilton",Italian,"Museum Visits, Snorkeling","Santorini, Dubai"
+b4279ee0-3325-49c2-9562-b47f505c973b,Culinary,InterContinental,Japanese,Shopping,"Santorini, Sydney, Bali"
+a41680f3-6158-48b0-982f-d852463ec95e,Culture,"InterContinental, Marriott","Mexican, Japanese","Snorkeling, Museum Visits","Bali, Santorini, Sydney"
+0f9e8c50-19db-4219-baee-cdc0e987e708,Culture,"Hyatt, Accor, Marriott","Indian, Mexican","Museum Visits, Snorkeling","Santorini, Dubai"
+685beef8-0b4c-46c6-bc0f-3f7c8614347e,Luxury,"Accor, InterContinental, Hyatt","Indian, Mexican, Japanese","Hiking, Skiing","Dubai, Machu Picchu, Sydney"
+6a7af4d3-e337-4e81-a1b3-d92c2235fdfc,Culture,"Hilton, Accor, Hyatt",Italian,"Shopping, Skiing","Bali, Sydney, Machu Picchu"
+b49c7aa3-0144-4964-8d16-6432b7f20512,Culture,"Hilton, Accor","French, Japanese","Snorkeling, Skiing, Hiking",Bali
+f74c86b8-65e4-4a98-b307-4df97573114f,Beach,"Accor, Hyatt, InterContinental","Indian, Mexican","Museum Visits, Shopping","Dubai, Machu Picchu"
+6ebf4156-b087-4d0d-ac38-b8dc7534a6cf,Culinary,"InterContinental, Marriott",Indian,Museum Visits,"Sydney, Bali, Santorini"
+35e21cbe-e2f1-4962-95ef-ccee27d28791,Beach,"Accor, Hilton, InterContinental","Italian, Indian","Hiking, Shopping","Santorini, Bali, Sydney"
+c1f78d66-93d1-47da-b946-28cbbaf61c0f,Budget,Hilton,Italian,"Snorkeling, Hiking, Museum Visits","Dubai, Bali"
+f77469a7-74cd-481b-8306-5ab26fd3d6d8,Budget,"Hilton, Accor",Italian,"Hiking, Museum Visits, Skiing",Santorini
+153de8ea-1a8f-4a37-986a-85dff4c83673,Culinary,"InterContinental, Accor, Hyatt","Italian, Japanese, French",Hiking,Bali
+4a972fb8-ad67-4ded-9cfa-13df14da3d8f,Beach,"Hilton, Marriott, Accor",Italian,"Museum Visits, Snorkeling, Shopping",Machu Picchu
+88064e7b-9202-4740-9890-15aa0bce6355,Budget,"Marriott, Accor","Italian, French, Japanese",Museum Visits,"Bali, Dubai"
+3ffcc1aa-adf9-4f6f-8fd9-d52e79333a89,Beach,"Hilton, Hyatt",French,"Hiking, Snorkeling","Sydney, Bali"
+f898eeeb-68ff-41d4-9ac8-bfe7825258e3,Budget,"InterContinental, Accor, Marriott","Japanese, French","Skiing, Shopping, Snorkeling","Sydney, Dubai"
+690a102a-724c-4030-89d9-9ffc52dcd596,Luxury,InterContinental,Japanese,Museum Visits,Bali
+71d86024-31da-44cf-a831-3f4821ba7857,Adventure,"Hilton, Hyatt, Marriott",Japanese,Hiking,"Sydney, Santorini, Dubai"
+f2dc09dc-56b4-487f-97bf-332685b15a4b,Luxury,Hilton,"Japanese, French",Hiking,"Santorini, Sydney, Machu Picchu"
+bdc6b1bd-3ff3-4c38-98df-7a232bced0b6,Adventure,"Hyatt, InterContinental, Accor",Italian,Skiing,Dubai
+91a5f5e2-2567-47c7-998e-23f9a2b2d171,Luxury,Marriott,"Japanese, Mexican",Skiing,"Santorini, Machu Picchu"
+e178404a-3036-4d8e-9da5-024e1809759b,Culinary,InterContinental,Indian,"Shopping, Skiing, Museum Visits","Dubai, Bali, Machu Picchu"
+82ac8db9-3190-4468-ad15-e460ade91bd7,Adventure,"Accor, Marriott","Indian, Mexican, French","Snorkeling, Museum Visits","Machu Picchu, Sydney"
+3e22ad37-a7f6-43b4-a95e-17e8a86cbc3d,Beach,"InterContinental, Hilton","Italian, French, Indian","Hiking, Shopping",Sydney
+7130711b-74b2-478c-8f84-4cbead686ccb,Culture,"Hilton, Hyatt","Japanese, Italian, Mexican","Skiing, Museum Visits, Hiking","Bali, Sydney, Dubai"
+fc1f2793-5303-430d-8d14-f5d9603ad848,Beach,"InterContinental, Accor","French, Mexican, Italian","Hiking, Snorkeling","Sydney, Machu Picchu, Santorini"
+4700bcf4-d2a0-48d4-826e-a66002bd2270,Beach,"InterContinental, Accor, Hyatt",Mexican,Museum Visits,"Sydney, Bali, Santorini"
+9f77c117-0d47-4271-82dd-48ec860fdd10,Adventure,"Marriott, Hyatt","Mexican, Italian, Japanese","Shopping, Hiking, Museum Visits",Bali
+6aea1999-8d76-42de-beea-803e87dc843f,Culture,"InterContinental, Hyatt",Japanese,"Snorkeling, Museum Visits, Skiing","Santorini, Bali"
