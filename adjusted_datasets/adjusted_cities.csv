@@ -1,0 +1,23 @@
+Ranking,City,Country,Remote connection: Average WiFi speed (Mbps per second),Co-working spaces: Number of co-working spaces,Caffeine: Average price of buying a coffee,Travel: Average price of taxi (per km),After-work drinks: Average price for 2 beers in a bar,Accommodation: Average price of 1 bedroom apartment per month,"Food: Average cost of a meal at a local, mid-level restaurant",Climate: Average number of sunshine hours,Tourist attractions: Number of ‘Things to do’ on Tripadvisor,Instagramability: Number of photos with #
+8,Istanbul,Turkey,13,69,1.19,0.28,3.24,223.42,2.84,2218,2088,116213193
+30,Los Angeles,United States,58,105,3.29,1.17,9.79,1565.8,13.98,3254,1375,75436810
+36,Las Vegas,United States,47,21,3.26,1.41,8.39,802.4,10.49,3825,1420,40524360
+38,San Francisco,United States,75,77,3.29,1.3,9.79,2086.65,13.92,3062,1490,30781286
+40,San Diego,United States,74,53,2.97,1.3,8.35,1508.68,10.44,3055,1118,29887093
+42,Chicago,United States,42,104,2.93,1.17,7.69,1291.92,11.88,2508,1411,51603607
+45,New York,United States,37,272,3.38,1.3,10.27,2108.63,13.98,2535,10269,113711319
+48,Dubai,United Arab Emirates,15,115,3.55,0.42,17.13,1038.82,6.66,3885,1615,110962610
+50,Houston,United States,60,62,2.72,1.0,6.99,973.73,10.49,2578,589,27197101
+52,Miami,United States,40,59,3.16,1.13,8.39,1360.13,11.19,3154,762,80497499
+63,Phoenix,United States,44,35,3.22,0.97,6.97,909.78,10.47,3872,389,9833747
+75,Liverpool,United Kingdom,26,17,2.58,0.9,3.4,630.32,11.65,2199,1050,14834860
+76,New Orleans,United States,45,16,3.16,1.5,4.87,973.45,12.15,2649,1016,11614267
+77,Washington DC,United States,68,59,3.2,1.82,8.35,1618.27,10.44,2528,778,10770923
+89,Portland,United States,44,31,2.95,1.13,8.35,1117.79,11.14,2341,741,12325674
+101,London,United Kingdom,22,318,2.86,1.65,9.71,1613.99,14.56,1633,4983,150702588
+107,Boston,United States,33,41,3.11,1.3,9.79,1822.81,13.98,2634,653,23846477
+116,Abu Dhabi,United Arab Emirates,9,32,3.38,0.38,15.22,865.55,5.71,3509,317,31532015
+126,Manchester,United Kingdom,33,38,2.73,1.18,7.77,824.58,14.56,1416,458,16470240
+134,Edinburgh,United Kingdom,26,23,2.68,1.38,8.25,784.86,14.56,1427,1163,9582024
+139,Glasgow,United Kingdom,26,16,2.69,1.03,6.8,632.32,14.56,1203,682,7250566
+140,Belfast,United Kingdom,26,13,2.66,1.04,8.74,587.35,11.63,1868,483,3389741
