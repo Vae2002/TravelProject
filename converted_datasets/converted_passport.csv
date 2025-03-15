@@ -1,5 +1,4 @@
 Origin,Destination,Requirement
-Afghanistan,Afghanistan,N/A
 Afghanistan,Albania,Visa Required
 Afghanistan,Algeria,Visa Required
 Afghanistan,American Samoa,Visa Required
@@ -227,7 +226,6 @@ Afghanistan,Zambia,Visa Required
 Afghanistan,Zimbabwe,Visa Required
 Afghanistan,eSwatini,Visa Required
 Albania,Afghanistan,Visa Required
-Albania,Albania,N/A
 Albania,Algeria,Visa Required
 Albania,American Samoa,Visa Required
 Albania,Andorra,Visa Free
@@ -455,7 +453,6 @@ Albania,Zimbabwe,Visa Free
 Albania,eSwatini,Visa Required
 Algeria,Afghanistan,Visa Required
 Algeria,Albania,Visa Required
-Algeria,Algeria,N/A
 Algeria,American Samoa,Visa Required
 Algeria,Andorra,Visa Required
 Algeria,Angola,Visa Free
@@ -684,7 +681,6 @@ Andorra,Afghanistan,Visa Required
 Andorra,Albania,Visa Free
 Andorra,Algeria,Visa Required
 Andorra,American Samoa,Visa Free
-Andorra,Andorra,N/A
 Andorra,Angola,Visa Required
 Andorra,Anguilla,Visa Free
 Andorra,Antigua and Barbuda,Visa Free
@@ -912,7 +908,6 @@ Angola,Albania,Visa Required
 Angola,Algeria,Visa Required
 Angola,American Samoa,Visa Required
 Angola,Andorra,Visa Required
-Angola,Angola,N/A
 Angola,Anguilla,Visa Required
 Angola,Antigua and Barbuda,Visa Required
 Angola,Argentina,Visa Required
@@ -1141,7 +1136,6 @@ Antigua and Barbuda,American Samoa,Visa Required
 Antigua and Barbuda,Andorra,Visa Free
 Antigua and Barbuda,Angola,Visa Free
 Antigua and Barbuda,Anguilla,Visa Free
-Antigua and Barbuda,Antigua and Barbuda,N/A
 Antigua and Barbuda,Argentina,Visa Required
 Antigua and Barbuda,Armenia,Visa Free
 Antigua and Barbuda,Aruba,Visa Free
@@ -1369,7 +1363,6 @@ Argentina,Andorra,Visa Free
 Argentina,Angola,Visa Free
 Argentina,Anguilla,Visa Free
 Argentina,Antigua and Barbuda,Visa Free
-Argentina,Argentina,N/A
 Argentina,Armenia,Visa Free
 Argentina,Aruba,Visa Free
 Argentina,Australia,Visa Required
@@ -1597,7 +1590,6 @@ Armenia,Angola,Visa Required
 Armenia,Anguilla,Visa Required
 Armenia,Antigua and Barbuda,Visa Free
 Armenia,Argentina,Visa Free
-Armenia,Armenia,N/A
 Armenia,Aruba,Visa Required
 Armenia,Australia,Visa Required
 Armenia,Austria,Visa Required
@@ -1826,7 +1818,6 @@ Australia,Antigua and Barbuda,Visa Free
 Australia,Argentina,Visa Free
 Australia,Armenia,Visa Free
 Australia,Aruba,Visa Free
-Australia,Australia,N/A
 Australia,Austria,Visa Free
 Australia,Azerbaijan,Visa Required
 Australia,Bahamas,Visa Free
@@ -2054,7 +2045,6 @@ Austria,Argentina,Visa Free
 Austria,Armenia,Visa Free
 Austria,Aruba,Visa Free
 Austria,Australia,Visa Free
-Austria,Austria,N/A
 Austria,Azerbaijan,Visa Required
 Austria,Bahamas,Visa Free
 Austria,Bahrain,Visa Free
@@ -2282,7 +2272,6 @@ Azerbaijan,Armenia,Visa Free
 Azerbaijan,Aruba,Visa Required
 Azerbaijan,Australia,Visa Required
 Azerbaijan,Austria,Visa Required
-Azerbaijan,Azerbaijan,N/A
 Azerbaijan,Bahamas,Visa Free
 Azerbaijan,Bahrain,Visa Required
 Azerbaijan,Bangladesh,Visa Free
@@ -2510,7 +2499,6 @@ Bahamas,Aruba,Visa Free
 Bahamas,Australia,Visa Required
 Bahamas,Austria,Visa Free
 Bahamas,Azerbaijan,Visa Required
-Bahamas,Bahamas,N/A
 Bahamas,Bahrain,Visa Required
 Bahamas,Bangladesh,Visa Free
 Bahamas,Barbados,Visa Free
@@ -2738,7 +2726,6 @@ Bahrain,Australia,Visa Required
 Bahrain,Austria,Visa Required
 Bahrain,Azerbaijan,Visa Free
 Bahrain,Bahamas,Visa Free
-Bahrain,Bahrain,N/A
 Bahrain,Bangladesh,Visa Free
 Bahrain,Barbados,Visa Free
 Bahrain,Belarus,Visa Free
@@ -2966,7 +2953,6 @@ Bangladesh,Austria,Visa Required
 Bangladesh,Azerbaijan,Visa Required
 Bangladesh,Bahamas,Visa Free
 Bangladesh,Bahrain,Visa Required
-Bangladesh,Bangladesh,N/A
 Bangladesh,Barbados,Visa Free
 Bangladesh,Belarus,Visa Required
 Bangladesh,Belgium,Visa Required
@@ -3194,7 +3180,6 @@ Barbados,Azerbaijan,Visa Required
 Barbados,Bahamas,Visa Free
 Barbados,Bahrain,Visa Required
 Barbados,Bangladesh,Visa Free
-Barbados,Barbados,N/A
 Barbados,Belarus,Visa Free
 Barbados,Belgium,Visa Free
 Barbados,Belize,Visa Free
@@ -3422,7 +3407,6 @@ Belarus,Bahamas,Visa Required
 Belarus,Bahrain,Visa Required
 Belarus,Bangladesh,Visa Required
 Belarus,Barbados,Visa Free
-Belarus,Belarus,N/A
 Belarus,Belgium,Visa Required
 Belarus,Belize,Visa Required
 Belarus,Benin,Visa Required
@@ -3650,7 +3634,6 @@ Belgium,Bahrain,Visa Free
 Belgium,Bangladesh,Visa Free
 Belgium,Barbados,Visa Free
 Belgium,Belarus,Visa Free
-Belgium,Belgium,N/A
 Belgium,Belize,Visa Free
 Belgium,Benin,Visa Required
 Belgium,Bermuda,Visa Free
@@ -3878,7 +3861,6 @@ Belize,Bangladesh,Visa Required
 Belize,Barbados,Visa Free
 Belize,Belarus,Visa Required
 Belize,Belgium,Visa Required
-Belize,Belize,N/A
 Belize,Benin,Visa Free
 Belize,Bermuda,Visa Free
 Belize,Bhutan,Visa Required
@@ -4106,7 +4088,6 @@ Benin,Barbados,Visa Free
 Benin,Belarus,Visa Required
 Benin,Belgium,Visa Required
 Benin,Belize,Visa Free
-Benin,Benin,N/A
 Benin,Bermuda,Visa Required
 Benin,Bhutan,Visa Required
 Benin,Bolivia,Visa Free
@@ -4335,7 +4316,6 @@ Bhutan,Belgium,Visa Required
 Bhutan,Belize,Visa Required
 Bhutan,Benin,Visa Required
 Bhutan,Bermuda,Visa Required
-Bhutan,Bhutan,N/A
 Bhutan,Bolivia,Visa Required
 Bhutan,Bonaire; St. Eustatius and Saba,Visa Required
 Bhutan,Bosnia and Herzegovina,Visa Required
@@ -4563,7 +4543,6 @@ Bolivia,Belize,Visa Free
 Bolivia,Benin,Visa Required
 Bolivia,Bermuda,Visa Required
 Bolivia,Bhutan,Visa Required
-Bolivia,Bolivia,N/A
 Bolivia,Bonaire; St. Eustatius and Saba,Visa Required
 Bolivia,Bosnia and Herzegovina,Visa Required
 Bolivia,Botswana,Visa Required
@@ -4792,7 +4771,6 @@ Bosnia and Herzegovina,Bermuda,Visa Required
 Bosnia and Herzegovina,Bhutan,Visa Required
 Bosnia and Herzegovina,Bolivia,Visa Free
 Bosnia and Herzegovina,Bonaire; St. Eustatius and Saba,Visa Free
-Bosnia and Herzegovina,Bosnia and Herzegovina,N/A
 Bosnia and Herzegovina,Botswana,Visa Required
 Bosnia and Herzegovina,Brazil,Visa Free
 Bosnia and Herzegovina,British Virgin Islands,Visa Required
@@ -5020,7 +4998,6 @@ Botswana,Bhutan,Visa Required
 Botswana,Bolivia,Visa Free
 Botswana,Bonaire; St. Eustatius and Saba,Visa Required
 Botswana,Bosnia and Herzegovina,Visa Required
-Botswana,Botswana,N/A
 Botswana,Brazil,Visa Free
 Botswana,British Virgin Islands,Visa Free
 Botswana,Brunei,Visa Required
@@ -5248,7 +5225,6 @@ Brazil,Bolivia,Visa Free
 Brazil,Bonaire; St. Eustatius and Saba,Visa Free
 Brazil,Bosnia and Herzegovina,Visa Free
 Brazil,Botswana,Visa Free
-Brazil,Brazil,N/A
 Brazil,British Virgin Islands,Visa Free
 Brazil,Brunei,Visa Required
 Brazil,Bulgaria,Visa Free
@@ -5477,7 +5453,6 @@ Brunei,Bosnia and Herzegovina,Visa Free
 Brunei,Botswana,Visa Free
 Brunei,Brazil,Visa Required
 Brunei,British Virgin Islands,Visa Free
-Brunei,Brunei,N/A
 Brunei,Bulgaria,Visa Free
 Brunei,Burkina Faso,Visa Required
 Brunei,Burundi,Visa Free
@@ -5705,7 +5680,6 @@ Bulgaria,Botswana,Visa Free
 Bulgaria,Brazil,Visa Free
 Bulgaria,British Virgin Islands,Visa Free
 Bulgaria,Brunei,Visa Free
-Bulgaria,Bulgaria,N/A
 Bulgaria,Burkina Faso,Visa Required
 Bulgaria,Burundi,Visa Free
 Bulgaria,Cambodia,Visa Free
@@ -5933,7 +5907,6 @@ Burkina Faso,Brazil,Visa Required
 Burkina Faso,British Virgin Islands,Visa Required
 Burkina Faso,Brunei,Visa Required
 Burkina Faso,Bulgaria,Visa Required
-Burkina Faso,Burkina Faso,N/A
 Burkina Faso,Burundi,Visa Free
 Burkina Faso,Cambodia,Visa Free
 Burkina Faso,Cameroon,Visa Required
@@ -6161,7 +6134,6 @@ Burundi,British Virgin Islands,Visa Required
 Burundi,Brunei,Visa Required
 Burundi,Bulgaria,Visa Required
 Burundi,Burkina Faso,Visa Required
-Burundi,Burundi,N/A
 Burundi,Cambodia,Visa Free
 Burundi,Cameroon,Visa Required
 Burundi,Canada,Visa Required
@@ -6389,7 +6361,6 @@ Cambodia,Brunei,Visa Free
 Cambodia,Bulgaria,Visa Required
 Cambodia,Burkina Faso,Visa Required
 Cambodia,Burundi,Visa Free
-Cambodia,Cambodia,N/A
 Cambodia,Cameroon,Visa Required
 Cambodia,Canada,Visa Required
 Cambodia,Cape Verde Islands,Visa Free
@@ -6617,7 +6588,6 @@ Cameroon,Bulgaria,Visa Required
 Cameroon,Burkina Faso,Visa Required
 Cameroon,Burundi,Visa Free
 Cameroon,Cambodia,Visa Free
-Cameroon,Cameroon,N/A
 Cameroon,Canada,Visa Required
 Cameroon,Cape Verde Islands,Visa Free
 Cameroon,Cayman Islands,Visa Required
@@ -6845,7 +6815,6 @@ Canada,Burkina Faso,Visa Required
 Canada,Burundi,Visa Free
 Canada,Cambodia,Visa Free
 Canada,Cameroon,Visa Required
-Canada,Canada,N/A
 Canada,Cape Verde Islands,Visa Free
 Canada,Cayman Islands,Visa Free
 Canada,Central African Republic,Visa Required
@@ -7073,7 +7042,6 @@ Cape Verde Islands,Burundi,Visa Free
 Cape Verde Islands,Cambodia,Visa Free
 Cape Verde Islands,Cameroon,Visa Required
 Cape Verde Islands,Canada,Visa Required
-Cape Verde Islands,Cape Verde Islands,N/A
 Cape Verde Islands,Cayman Islands,Visa Required
 Cape Verde Islands,Central African Republic,Visa Required
 Cape Verde Islands,Chad,Visa Required
@@ -7302,7 +7270,6 @@ Central African Republic,Cameroon,Visa Free
 Central African Republic,Canada,Visa Required
 Central African Republic,Cape Verde Islands,Visa Free
 Central African Republic,Cayman Islands,Visa Required
-Central African Republic,Central African Republic,N/A
 Central African Republic,Chad,Visa Free
 Central African Republic,Chile,Visa Required
 Central African Republic,China,Visa Required
@@ -7530,7 +7497,6 @@ Chad,Canada,Visa Required
 Chad,Cape Verde Islands,Visa Free
 Chad,Cayman Islands,Visa Required
 Chad,Central African Republic,Visa Free
-Chad,Chad,N/A
 Chad,Chile,Visa Required
 Chad,China,Visa Required
 Chad,Colombia,Visa Required
@@ -7758,7 +7724,6 @@ Chile,Cape Verde Islands,Visa Free
 Chile,Cayman Islands,Visa Free
 Chile,Central African Republic,Visa Required
 Chile,Chad,Visa Required
-Chile,Chile,N/A
 Chile,China,Visa Required
 Chile,Colombia,Visa Free
 Chile,Comoro Islands,Visa Free
@@ -7986,7 +7951,6 @@ China,Cayman Islands,Visa Required
 China,Central African Republic,Visa Required
 China,Chad,Visa Required
 China,Chile,Visa Required
-China,China,N/A
 China,Colombia,Visa Required
 China,Comoro Islands,Visa Free
 China,Congo (Dem. Rep.),Visa Required
@@ -8214,7 +8178,6 @@ Colombia,Central African Republic,Visa Required
 Colombia,Chad,Visa Required
 Colombia,Chile,Visa Free
 Colombia,China,Visa Required
-Colombia,Colombia,N/A
 Colombia,Comoro Islands,Visa Free
 Colombia,Congo (Dem. Rep.),Visa Required
 Colombia,Congo (Rep.),Visa Required
@@ -8442,7 +8405,6 @@ Comoro Islands,Chad,Visa Required
 Comoro Islands,Chile,Visa Required
 Comoro Islands,China,Visa Required
 Comoro Islands,Colombia,Visa Required
-Comoro Islands,Comoro Islands,N/A
 Comoro Islands,Congo (Dem. Rep.),Visa Required
 Comoro Islands,Congo (Rep.),Visa Required
 Comoro Islands,Cook Islands,Visa Free
@@ -8670,7 +8632,6 @@ Congo (Dem. Rep.),Chile,Visa Required
 Congo (Dem. Rep.),China,Visa Required
 Congo (Dem. Rep.),Colombia,Visa Required
 Congo (Dem. Rep.),Comoro Islands,Visa Free
-Congo (Dem. Rep.),Congo (Dem. Rep.),N/A
 Congo (Dem. Rep.),Congo (Rep.),Visa Required
 Congo (Dem. Rep.),Cook Islands,Visa Free
 Congo (Dem. Rep.),Costa Rica,Visa Required
@@ -8898,7 +8859,6 @@ Congo (Rep.),China,Visa Required
 Congo (Rep.),Colombia,Visa Required
 Congo (Rep.),Comoro Islands,Visa Free
 Congo (Rep.),Congo (Dem. Rep.),Visa Free
-Congo (Rep.),Congo (Rep.),N/A
 Congo (Rep.),Cook Islands,Visa Free
 Congo (Rep.),Costa Rica,Visa Required
 Congo (Rep.),Cote d'Ivoire,Visa Free
@@ -9127,7 +9087,6 @@ Costa Rica,Comoro Islands,Visa Free
 Costa Rica,Congo (Dem. Rep.),Visa Required
 Costa Rica,Congo (Rep.),Visa Required
 Costa Rica,Cook Islands,Visa Free
-Costa Rica,Costa Rica,N/A
 Costa Rica,Cote d'Ivoire,Visa Required
 Costa Rica,Croatia,Visa Free
 Costa Rica,Cuba,Visa Required
@@ -9355,7 +9314,6 @@ Cote d'Ivoire,Congo (Dem. Rep.),Visa Required
 Cote d'Ivoire,Congo (Rep.),Visa Free
 Cote d'Ivoire,Cook Islands,Visa Free
 Cote d'Ivoire,Costa Rica,Visa Required
-Cote d'Ivoire,Cote d'Ivoire,N/A
 Cote d'Ivoire,Croatia,Visa Required
 Cote d'Ivoire,Cuba,Visa Required
 Cote d'Ivoire,Curacao,Visa Required
@@ -9583,7 +9541,6 @@ Croatia,Congo (Rep.),Visa Required
 Croatia,Cook Islands,Visa Free
 Croatia,Costa Rica,Visa Free
 Croatia,Cote d'Ivoire,Visa Required
-Croatia,Croatia,N/A
 Croatia,Cuba,Visa Required
 Croatia,Curacao,Visa Free
 Croatia,Cyprus,Visa Free
@@ -9811,7 +9768,6 @@ Cuba,Cook Islands,Visa Free
 Cuba,Costa Rica,Visa Required
 Cuba,Cote d'Ivoire,Visa Required
 Cuba,Croatia,Visa Required
-Cuba,Cuba,N/A
 Cuba,Curacao,Visa Required
 Cuba,Cyprus,Visa Required
 Cuba,Czechia,Visa Required
@@ -10040,7 +9996,6 @@ Cyprus,Cote d'Ivoire,Visa Required
 Cyprus,Croatia,Visa Free
 Cyprus,Cuba,Visa Required
 Cyprus,Curacao,Visa Free
-Cyprus,Cyprus,N/A
 Cyprus,Czechia,Visa Free
 Cyprus,Denmark,Visa Free
 Cyprus,Djibouti,Visa Free
@@ -10268,7 +10223,6 @@ Czechia,Croatia,Visa Free
 Czechia,Cuba,Visa Required
 Czechia,Curacao,Visa Free
 Czechia,Cyprus,Visa Free
-Czechia,Czechia,N/A
 Czechia,Denmark,Visa Free
 Czechia,Djibouti,Visa Free
 Czechia,Dominica,Visa Free
@@ -10496,7 +10450,6 @@ Denmark,Cuba,Visa Required
 Denmark,Curacao,Visa Free
 Denmark,Cyprus,Visa Free
 Denmark,Czechia,Visa Free
-Denmark,Denmark,N/A
 Denmark,Djibouti,Visa Free
 Denmark,Dominica,Visa Free
 Denmark,Dominican Republic,Visa Free
@@ -10724,7 +10677,6 @@ Djibouti,Curacao,Visa Required
 Djibouti,Cyprus,Visa Required
 Djibouti,Czechia,Visa Required
 Djibouti,Denmark,Visa Required
-Djibouti,Djibouti,N/A
 Djibouti,Dominica,Visa Free
 Djibouti,Dominican Republic,Visa Required
 Djibouti,Ecuador,Visa Free
@@ -10952,7 +10904,6 @@ Dominica,Cyprus,Visa Free
 Dominica,Czechia,Visa Free
 Dominica,Denmark,Visa Free
 Dominica,Djibouti,Visa Free
-Dominica,Dominica,N/A
 Dominica,Dominican Republic,Visa Free
 Dominica,Ecuador,Visa Free
 Dominica,Egypt,Visa Free
@@ -11180,7 +11131,6 @@ Dominican Republic,Czechia,Visa Required
 Dominican Republic,Denmark,Visa Required
 Dominican Republic,Djibouti,Visa Free
 Dominican Republic,Dominica,Visa Required
-Dominican Republic,Dominican Republic,N/A
 Dominican Republic,Ecuador,Visa Free
 Dominican Republic,Egypt,Visa Free
 Dominican Republic,El Salvador,Visa Free
@@ -11408,7 +11358,6 @@ Ecuador,Denmark,Visa Required
 Ecuador,Djibouti,Visa Free
 Ecuador,Dominica,Visa Free
 Ecuador,Dominican Republic,Visa Free
-Ecuador,Ecuador,N/A
 Ecuador,Egypt,Visa Free
 Ecuador,El Salvador,Visa Free
 Ecuador,Equatorial Guinea,Visa Required
@@ -11636,7 +11585,6 @@ Egypt,Djibouti,Visa Free
 Egypt,Dominica,Visa Free
 Egypt,Dominican Republic,Visa Required
 Egypt,Ecuador,Visa Required
-Egypt,Egypt,N/A
 Egypt,El Salvador,Visa Required
 Egypt,Equatorial Guinea,Visa Required
 Egypt,Eritrea,Visa Required
@@ -11864,7 +11812,6 @@ El Salvador,Dominica,Visa Free
 El Salvador,Dominican Republic,Visa Free
 El Salvador,Ecuador,Visa Free
 El Salvador,Egypt,Visa Free
-El Salvador,El Salvador,N/A
 El Salvador,Equatorial Guinea,Visa Required
 El Salvador,Eritrea,Visa Required
 El Salvador,Estonia,Visa Free
@@ -12092,7 +12039,6 @@ Equatorial Guinea,Dominican Republic,Visa Required
 Equatorial Guinea,Ecuador,Visa Free
 Equatorial Guinea,Egypt,Visa Required
 Equatorial Guinea,El Salvador,Visa Required
-Equatorial Guinea,Equatorial Guinea,N/A
 Equatorial Guinea,Eritrea,Visa Required
 Equatorial Guinea,Estonia,Visa Required
 Equatorial Guinea,Ethiopia,Visa Free
@@ -12320,7 +12266,6 @@ Eritrea,Ecuador,Visa Required
 Eritrea,Egypt,Visa Required
 Eritrea,El Salvador,Visa Required
 Eritrea,Equatorial Guinea,Visa Required
-Eritrea,Eritrea,N/A
 Eritrea,Estonia,Visa Required
 Eritrea,Ethiopia,Visa Required
 Eritrea,Falkland Islands,Visa Required
@@ -12548,7 +12493,6 @@ Estonia,Egypt,Visa Free
 Estonia,El Salvador,Visa Free
 Estonia,Equatorial Guinea,Visa Required
 Estonia,Eritrea,Visa Required
-Estonia,Estonia,N/A
 Estonia,Ethiopia,Visa Free
 Estonia,Falkland Islands,Visa Free
 Estonia,Faroe Islands,Visa Free
@@ -12776,7 +12720,6 @@ Ethiopia,El Salvador,Visa Required
 Ethiopia,Equatorial Guinea,Visa Required
 Ethiopia,Eritrea,Visa Free
 Ethiopia,Estonia,Visa Required
-Ethiopia,Ethiopia,N/A
 Ethiopia,Falkland Islands,Visa Required
 Ethiopia,Faroe Islands,Visa Required
 Ethiopia,Fiji,Visa Required
@@ -13006,7 +12949,6 @@ Fiji,Estonia,Visa Required
 Fiji,Ethiopia,Visa Required
 Fiji,Falkland Islands,Visa Required
 Fiji,Faroe Islands,Visa Required
-Fiji,Fiji,N/A
 Fiji,Finland,Visa Required
 Fiji,France,Visa Required
 Fiji,French Guiana,Visa Required
@@ -13234,7 +13176,6 @@ Finland,Ethiopia,Visa Free
 Finland,Falkland Islands,Visa Free
 Finland,Faroe Islands,Visa Free
 Finland,Fiji,Visa Free
-Finland,Finland,N/A
 Finland,France,Visa Free
 Finland,French Guiana,Visa Free
 Finland,French Polynesia,Visa Free
@@ -13462,7 +13403,6 @@ France,Falkland Islands,Visa Free
 France,Faroe Islands,Visa Free
 France,Fiji,Visa Free
 France,Finland,Visa Free
-France,France,N/A
 France,French Guiana,Visa Free
 France,French Polynesia,Visa Free
 France,French West Indies,Visa Free
@@ -13693,7 +13633,6 @@ Gabon,France,Visa Required
 Gabon,French Guiana,Visa Required
 Gabon,French Polynesia,Visa Required
 Gabon,French West Indies,Visa Required
-Gabon,Gabon,N/A
 Gabon,Georgia,Visa Required
 Gabon,Germany,Visa Required
 Gabon,Ghana,Visa Free
@@ -13921,7 +13860,6 @@ Georgia,French Guiana,Visa Required
 Georgia,French Polynesia,Visa Required
 Georgia,French West Indies,Visa Required
 Georgia,Gabon,Visa Required
-Georgia,Georgia,N/A
 Georgia,Germany,Visa Free
 Georgia,Ghana,Visa Required
 Georgia,Gibraltar,Visa Required
@@ -14149,7 +14087,6 @@ Germany,French Polynesia,Visa Free
 Germany,French West Indies,Visa Free
 Germany,Gabon,Visa Required
 Germany,Georgia,Visa Free
-Germany,Germany,N/A
 Germany,Ghana,Visa Required
 Germany,Gibraltar,Visa Free
 Germany,Greece,Visa Free
@@ -14377,7 +14314,6 @@ Ghana,French West Indies,Visa Required
 Ghana,Gabon,Visa Required
 Ghana,Georgia,Visa Required
 Ghana,Germany,Visa Required
-Ghana,Ghana,N/A
 Ghana,Gibraltar,Visa Required
 Ghana,Greece,Visa Required
 Ghana,Greenland,Visa Required
@@ -14606,7 +14542,6 @@ Greece,Georgia,Visa Free
 Greece,Germany,Visa Free
 Greece,Ghana,Visa Required
 Greece,Gibraltar,Visa Free
-Greece,Greece,N/A
 Greece,Greenland,Visa Free
 Greece,Grenada,Visa Free
 Greece,Guam,Visa Free
@@ -14835,7 +14770,6 @@ Grenada,Ghana,Visa Required
 Grenada,Gibraltar,Visa Free
 Grenada,Greece,Visa Free
 Grenada,Greenland,Visa Free
-Grenada,Grenada,N/A
 Grenada,Guam,Visa Required
 Grenada,Guatemala,Visa Required
 Grenada,Guinea,Visa Required
@@ -15064,7 +14998,6 @@ Guatemala,Greece,Visa Free
 Guatemala,Greenland,Visa Free
 Guatemala,Grenada,Visa Required
 Guatemala,Guam,Visa Required
-Guatemala,Guatemala,N/A
 Guatemala,Guinea,Visa Required
 Guatemala,Guinea-Bissau,Visa Free
 Guatemala,Guyana,Visa Required
@@ -15292,7 +15225,6 @@ Guinea,Greenland,Visa Required
 Guinea,Grenada,Visa Required
 Guinea,Guam,Visa Required
 Guinea,Guatemala,Visa Required
-Guinea,Guinea,N/A
 Guinea,Guinea-Bissau,Visa Free
 Guinea,Guyana,Visa Required
 Guinea,Haiti,Visa Free
@@ -15520,7 +15452,6 @@ Guinea-Bissau,Grenada,Visa Required
 Guinea-Bissau,Guam,Visa Required
 Guinea-Bissau,Guatemala,Visa Required
 Guinea-Bissau,Guinea,Visa Free
-Guinea-Bissau,Guinea-Bissau,N/A
 Guinea-Bissau,Guyana,Visa Required
 Guinea-Bissau,Haiti,Visa Free
 Guinea-Bissau,Honduras,Visa Required
@@ -15748,7 +15679,6 @@ Guyana,Guam,Visa Required
 Guyana,Guatemala,Visa Required
 Guyana,Guinea,Visa Required
 Guyana,Guinea-Bissau,Visa Free
-Guyana,Guyana,N/A
 Guyana,Haiti,Visa Free
 Guyana,Honduras,Visa Required
 Guyana,Hong Kong (SAR China),Visa Free
@@ -15976,7 +15906,6 @@ Haiti,Guatemala,Visa Required
 Haiti,Guinea,Visa Required
 Haiti,Guinea-Bissau,Visa Free
 Haiti,Guyana,Visa Required
-Haiti,Haiti,N/A
 Haiti,Honduras,Visa Required
 Haiti,Hong Kong (SAR China),Visa Free
 Haiti,Hungary,Visa Required
@@ -16204,7 +16133,6 @@ Honduras,Guinea,Visa Required
 Honduras,Guinea-Bissau,Visa Free
 Honduras,Guyana,Visa Required
 Honduras,Haiti,Visa Free
-Honduras,Honduras,N/A
 Honduras,Hong Kong (SAR China),Visa Free
 Honduras,Hungary,Visa Free
 Honduras,Iceland,Visa Free
@@ -16432,7 +16360,6 @@ Hong Kong (SAR China),Guinea-Bissau,Visa Free
 Hong Kong (SAR China),Guyana,Visa Free
 Hong Kong (SAR China),Haiti,Visa Free
 Hong Kong (SAR China),Honduras,Visa Required
-Hong Kong (SAR China),Hong Kong (SAR China),N/A
 Hong Kong (SAR China),Hungary,Visa Free
 Hong Kong (SAR China),Iceland,Visa Free
 Hong Kong (SAR China),India,Visa Required
@@ -16660,7 +16587,6 @@ Hungary,Guyana,Visa Required
 Hungary,Haiti,Visa Free
 Hungary,Honduras,Visa Free
 Hungary,Hong Kong (SAR China),Visa Free
-Hungary,Hungary,N/A
 Hungary,Iceland,Visa Free
 Hungary,India,Visa Required
 Hungary,Indonesia,Visa Free
@@ -16888,7 +16814,6 @@ Iceland,Haiti,Visa Free
 Iceland,Honduras,Visa Free
 Iceland,Hong Kong (SAR China),Visa Free
 Iceland,Hungary,Visa Free
-Iceland,Iceland,N/A
 Iceland,India,Visa Required
 Iceland,Indonesia,Visa Free
 Iceland,Iran,Visa Free
@@ -17116,7 +17041,6 @@ India,Honduras,Visa Required
 India,Hong Kong (SAR China),Visa Required
 India,Hungary,Visa Required
 India,Iceland,Visa Required
-India,India,N/A
 India,Indonesia,Visa Free
 India,Iran,Visa Free
 India,Iraq,Visa Required
@@ -17344,7 +17268,6 @@ Indonesia,Hong Kong (SAR China),Visa Free
 Indonesia,Hungary,Visa Required
 Indonesia,Iceland,Visa Required
 Indonesia,India,Visa Required
-Indonesia,Indonesia,N/A
 Indonesia,Iran,Visa Free
 Indonesia,Iraq,Visa Required
 Indonesia,Ireland,Visa Required
@@ -17572,7 +17495,6 @@ Iran,Hungary,Visa Required
 Iran,Iceland,Visa Required
 Iran,India,Visa Required
 Iran,Indonesia,Visa Required
-Iran,Iran,N/A
 Iran,Iraq,Visa Free
 Iran,Ireland,Visa Required
 Iran,Israel,Visa Required
@@ -17800,7 +17722,6 @@ Iraq,Iceland,Visa Required
 Iraq,India,Visa Required
 Iraq,Indonesia,Visa Required
 Iraq,Iran,Visa Free
-Iraq,Iraq,N/A
 Iraq,Ireland,Visa Required
 Iraq,Israel,Visa Required
 Iraq,Italy,Visa Required
@@ -18028,7 +17949,6 @@ Ireland,India,Visa Required
 Ireland,Indonesia,Visa Free
 Ireland,Iran,Visa Free
 Ireland,Iraq,Visa Free
-Ireland,Ireland,N/A
 Ireland,Israel,Visa Free
 Ireland,Italy,Visa Free
 Ireland,Jamaica,Visa Free
@@ -18256,7 +18176,6 @@ Israel,Indonesia,Visa Required
 Israel,Iran,Visa Required
 Israel,Iraq,Visa Required
 Israel,Ireland,Visa Free
-Israel,Israel,N/A
 Israel,Italy,Visa Free
 Israel,Jamaica,Visa Free
 Israel,Japan,Visa Free
@@ -18484,7 +18403,6 @@ Italy,Iran,Visa Free
 Italy,Iraq,Visa Free
 Italy,Ireland,Visa Free
 Italy,Israel,Visa Free
-Italy,Italy,N/A
 Italy,Jamaica,Visa Free
 Italy,Japan,Visa Free
 Italy,Jordan,Visa Free
@@ -18712,7 +18630,6 @@ Jamaica,Iraq,Visa Required
 Jamaica,Ireland,Visa Required
 Jamaica,Israel,Visa Free
 Jamaica,Italy,Visa Required
-Jamaica,Jamaica,N/A
 Jamaica,Japan,Visa Required
 Jamaica,Jordan,Visa Free
 Jamaica,Kazakhstan,Visa Required
@@ -18940,7 +18857,6 @@ Japan,Ireland,Visa Free
 Japan,Israel,Visa Free
 Japan,Italy,Visa Free
 Japan,Jamaica,Visa Free
-Japan,Japan,N/A
 Japan,Jordan,Visa Free
 Japan,Kazakhstan,Visa Free
 Japan,Kenya,Visa Free
@@ -19168,7 +19084,6 @@ Jordan,Israel,Visa Required
 Jordan,Italy,Visa Required
 Jordan,Jamaica,Visa Required
 Jordan,Japan,Visa Required
-Jordan,Jordan,N/A
 Jordan,Kazakhstan,Visa Required
 Jordan,Kenya,Visa Free
 Jordan,Kiribati,Visa Required
@@ -19396,7 +19311,6 @@ Kazakhstan,Italy,Visa Required
 Kazakhstan,Jamaica,Visa Free
 Kazakhstan,Japan,Visa Required
 Kazakhstan,Jordan,Visa Free
-Kazakhstan,Kazakhstan,N/A
 Kazakhstan,Kenya,Visa Free
 Kazakhstan,Kiribati,Visa Required
 Kazakhstan,Kosovo,Visa Required
@@ -19624,7 +19538,6 @@ Kenya,Jamaica,Visa Free
 Kenya,Japan,Visa Required
 Kenya,Jordan,Visa Free
 Kenya,Kazakhstan,Visa Required
-Kenya,Kenya,N/A
 Kenya,Kiribati,Visa Free
 Kenya,Kosovo,Visa Required
 Kenya,Kuwait,Visa Required
@@ -19852,7 +19765,6 @@ Kiribati,Japan,Visa Required
 Kiribati,Jordan,Visa Free
 Kiribati,Kazakhstan,Visa Required
 Kiribati,Kenya,Visa Free
-Kiribati,Kiribati,N/A
 Kiribati,Kosovo,Visa Free
 Kiribati,Kuwait,Visa Required
 Kiribati,Kyrgyzstan,Visa Required
@@ -20080,7 +19992,6 @@ Kosovo,Jordan,Visa Free
 Kosovo,Kazakhstan,Visa Required
 Kosovo,Kenya,Visa Free
 Kosovo,Kiribati,Visa Required
-Kosovo,Kosovo,N/A
 Kosovo,Kuwait,Visa Required
 Kosovo,Kyrgyzstan,Visa Required
 Kosovo,Laos,Visa Free
@@ -20308,7 +20219,6 @@ Kuwait,Kazakhstan,Visa Free
 Kuwait,Kenya,Visa Free
 Kuwait,Kiribati,Visa Required
 Kuwait,Kosovo,Visa Free
-Kuwait,Kuwait,N/A
 Kuwait,Kyrgyzstan,Visa Free
 Kuwait,Laos,Visa Free
 Kuwait,Latvia,Visa Required
@@ -20536,7 +20446,6 @@ Kyrgyzstan,Kenya,Visa Free
 Kyrgyzstan,Kiribati,Visa Required
 Kyrgyzstan,Kosovo,Visa Required
 Kyrgyzstan,Kuwait,Visa Required
-Kyrgyzstan,Kyrgyzstan,N/A
 Kyrgyzstan,Laos,Visa Free
 Kyrgyzstan,Latvia,Visa Required
 Kyrgyzstan,Lebanon,Visa Free
@@ -20764,7 +20673,6 @@ Laos,Kiribati,Visa Required
 Laos,Kosovo,Visa Required
 Laos,Kuwait,Visa Free
 Laos,Kyrgyzstan,Visa Required
-Laos,Laos,N/A
 Laos,Latvia,Visa Required
 Laos,Lebanon,Visa Required
 Laos,Lesotho,Visa Required
@@ -20992,7 +20900,6 @@ Latvia,Kosovo,Visa Free
 Latvia,Kuwait,Visa Free
 Latvia,Kyrgyzstan,Visa Free
 Latvia,Laos,Visa Free
-Latvia,Latvia,N/A
 Latvia,Lebanon,Visa Free
 Latvia,Lesotho,Visa Required
 Latvia,Liberia,Visa Required
@@ -21220,7 +21127,6 @@ Lebanon,Kuwait,Visa Required
 Lebanon,Kyrgyzstan,Visa Required
 Lebanon,Laos,Visa Free
 Lebanon,Latvia,Visa Required
-Lebanon,Lebanon,N/A
 Lebanon,Lesotho,Visa Required
 Lebanon,Liberia,Visa Required
 Lebanon,Libya,Visa Required
@@ -21448,7 +21354,6 @@ Lesotho,Kyrgyzstan,Visa Required
 Lesotho,Laos,Visa Required
 Lesotho,Latvia,Visa Required
 Lesotho,Lebanon,Visa Required
-Lesotho,Lesotho,N/A
 Lesotho,Liberia,Visa Required
 Lesotho,Libya,Visa Required
 Lesotho,Liechtenstein,Visa Required
@@ -21676,7 +21581,6 @@ Liberia,Laos,Visa Required
 Liberia,Latvia,Visa Required
 Liberia,Lebanon,Visa Required
 Liberia,Lesotho,Visa Required
-Liberia,Liberia,N/A
 Liberia,Libya,Visa Required
 Liberia,Liechtenstein,Visa Required
 Liberia,Lithuania,Visa Required
@@ -21904,7 +21808,6 @@ Libya,Latvia,Visa Required
 Libya,Lebanon,Visa Free
 Libya,Lesotho,Visa Required
 Libya,Liberia,Visa Required
-Libya,Libya,N/A
 Libya,Liechtenstein,Visa Required
 Libya,Lithuania,Visa Required
 Libya,Luxembourg,Visa Required
@@ -22132,7 +22035,6 @@ Liechtenstein,Lebanon,Visa Free
 Liechtenstein,Lesotho,Visa Required
 Liechtenstein,Liberia,Visa Required
 Liechtenstein,Libya,Visa Required
-Liechtenstein,Liechtenstein,N/A
 Liechtenstein,Lithuania,Visa Free
 Liechtenstein,Luxembourg,Visa Free
 Liechtenstein,Macao (SAR China),Visa Free
@@ -22360,7 +22262,6 @@ Lithuania,Lesotho,Visa Required
 Lithuania,Liberia,Visa Required
 Lithuania,Libya,Visa Required
 Lithuania,Liechtenstein,Visa Free
-Lithuania,Lithuania,N/A
 Lithuania,Luxembourg,Visa Free
 Lithuania,Macao (SAR China),Visa Free
 Lithuania,Madagascar,Visa Free
@@ -22588,7 +22489,6 @@ Luxembourg,Liberia,Visa Required
 Luxembourg,Libya,Visa Required
 Luxembourg,Liechtenstein,Visa Free
 Luxembourg,Lithuania,Visa Free
-Luxembourg,Luxembourg,N/A
 Luxembourg,Macao (SAR China),Visa Free
 Luxembourg,Madagascar,Visa Free
 Luxembourg,Malawi,Visa Free
@@ -22816,7 +22716,6 @@ Macao (SAR China),Libya,Visa Required
 Macao (SAR China),Liechtenstein,Visa Free
 Macao (SAR China),Lithuania,Visa Free
 Macao (SAR China),Luxembourg,Visa Free
-Macao (SAR China),Macao (SAR China),N/A
 Macao (SAR China),Madagascar,Visa Free
 Macao (SAR China),Malawi,Visa Free
 Macao (SAR China),Malaysia,Visa Free
@@ -23044,7 +22943,6 @@ Madagascar,Liechtenstein,Visa Required
 Madagascar,Lithuania,Visa Required
 Madagascar,Luxembourg,Visa Required
 Madagascar,Macao (SAR China),Visa Free
-Madagascar,Madagascar,N/A
 Madagascar,Malawi,Visa Free
 Madagascar,Malaysia,Visa Free
 Madagascar,Maldives,Visa Free
@@ -23272,7 +23170,6 @@ Malawi,Lithuania,Visa Required
 Malawi,Luxembourg,Visa Required
 Malawi,Macao (SAR China),Visa Free
 Malawi,Madagascar,Visa Free
-Malawi,Malawi,N/A
 Malawi,Malaysia,Visa Free
 Malawi,Maldives,Visa Free
 Malawi,Mali,Visa Required
@@ -23500,7 +23397,6 @@ Malaysia,Luxembourg,Visa Free
 Malaysia,Macao (SAR China),Visa Free
 Malaysia,Madagascar,Visa Free
 Malaysia,Malawi,Visa Free
-Malaysia,Malaysia,N/A
 Malaysia,Maldives,Visa Free
 Malaysia,Mali,Visa Required
 Malaysia,Malta,Visa Free
@@ -23728,7 +23624,6 @@ Maldives,Macao (SAR China),Visa Free
 Maldives,Madagascar,Visa Free
 Maldives,Malawi,Visa Free
 Maldives,Malaysia,Visa Free
-Maldives,Maldives,N/A
 Maldives,Mali,Visa Required
 Maldives,Malta,Visa Required
 Maldives,Marshall Islands,Visa Free
@@ -23956,7 +23851,6 @@ Mali,Madagascar,Visa Free
 Mali,Malawi,Visa Required
 Mali,Malaysia,Visa Required
 Mali,Maldives,Visa Free
-Mali,Mali,N/A
 Mali,Malta,Visa Required
 Mali,Marshall Islands,Visa Required
 Mali,Mauritania,Visa Free
@@ -24184,7 +24078,6 @@ Malta,Malawi,Visa Free
 Malta,Malaysia,Visa Free
 Malta,Maldives,Visa Free
 Malta,Mali,Visa Required
-Malta,Malta,N/A
 Malta,Marshall Islands,Visa Free
 Malta,Mauritania,Visa Required
 Malta,Mauritius,Visa Free
@@ -24412,7 +24305,6 @@ Marshall Islands,Malaysia,Visa Free
 Marshall Islands,Maldives,Visa Free
 Marshall Islands,Mali,Visa Required
 Marshall Islands,Malta,Visa Free
-Marshall Islands,Marshall Islands,N/A
 Marshall Islands,Mauritania,Visa Required
 Marshall Islands,Mauritius,Visa Free
 Marshall Islands,Mayotte,Visa Required
@@ -24640,7 +24532,6 @@ Mauritania,Maldives,Visa Free
 Mauritania,Mali,Visa Free
 Mauritania,Malta,Visa Required
 Mauritania,Marshall Islands,Visa Required
-Mauritania,Mauritania,N/A
 Mauritania,Mauritius,Visa Free
 Mauritania,Mayotte,Visa Required
 Mauritania,Mexico,Visa Required
@@ -24868,7 +24759,6 @@ Mauritius,Mali,Visa Required
 Mauritius,Malta,Visa Free
 Mauritius,Marshall Islands,Visa Free
 Mauritius,Mauritania,Visa Required
-Mauritius,Mauritius,N/A
 Mauritius,Mayotte,Visa Free
 Mauritius,Mexico,Visa Required
 Mauritius,Micronesia,Visa Free
@@ -25097,7 +24987,6 @@ Mexico,Marshall Islands,Visa Free
 Mexico,Mauritania,Visa Required
 Mexico,Mauritius,Visa Free
 Mexico,Mayotte,Visa Free
-Mexico,Mexico,N/A
 Mexico,Micronesia,Visa Free
 Mexico,Moldova,Visa Free
 Mexico,Monaco,Visa Free
@@ -25325,7 +25214,6 @@ Micronesia,Mauritania,Visa Required
 Micronesia,Mauritius,Visa Free
 Micronesia,Mayotte,Visa Required
 Micronesia,Mexico,Visa Free
-Micronesia,Micronesia,N/A
 Micronesia,Moldova,Visa Free
 Micronesia,Monaco,Visa Free
 Micronesia,Mongolia,Visa Required
@@ -25553,7 +25441,6 @@ Moldova,Mauritius,Visa Free
 Moldova,Mayotte,Visa Free
 Moldova,Mexico,Visa Required
 Moldova,Micronesia,Visa Free
-Moldova,Moldova,N/A
 Moldova,Monaco,Visa Free
 Moldova,Mongolia,Visa Required
 Moldova,Montenegro,Visa Free
@@ -25781,7 +25668,6 @@ Monaco,Mayotte,Visa Free
 Monaco,Mexico,Visa Free
 Monaco,Micronesia,Visa Free
 Monaco,Moldova,Visa Free
-Monaco,Monaco,N/A
 Monaco,Mongolia,Visa Free
 Monaco,Montenegro,Visa Free
 Monaco,Montserrat,Visa Free
@@ -26009,7 +25895,6 @@ Mongolia,Mexico,Visa Required
 Mongolia,Micronesia,Visa Free
 Mongolia,Moldova,Visa Required
 Mongolia,Monaco,Visa Required
-Mongolia,Mongolia,N/A
 Mongolia,Montenegro,Visa Required
 Mongolia,Montserrat,Visa Required
 Mongolia,Morocco,Visa Required
@@ -26237,7 +26122,6 @@ Montenegro,Micronesia,Visa Free
 Montenegro,Moldova,Visa Free
 Montenegro,Monaco,Visa Free
 Montenegro,Mongolia,Visa Required
-Montenegro,Montenegro,N/A
 Montenegro,Montserrat,Visa Required
 Montenegro,Morocco,Visa Required
 Montenegro,Mozambique,Visa Free
@@ -26466,7 +26350,6 @@ Morocco,Monaco,Visa Required
 Morocco,Mongolia,Visa Required
 Morocco,Montenegro,Visa Required
 Morocco,Montserrat,Visa Required
-Morocco,Morocco,N/A
 Morocco,Mozambique,Visa Free
 Morocco,Myanmar,Visa Required
 Morocco,Namibia,Visa Required
@@ -26694,7 +26577,6 @@ Mozambique,Mongolia,Visa Required
 Mozambique,Montenegro,Visa Required
 Mozambique,Montserrat,Visa Required
 Mozambique,Morocco,Visa Required
-Mozambique,Mozambique,N/A
 Mozambique,Myanmar,Visa Required
 Mozambique,Namibia,Visa Free
 Mozambique,Nauru,Visa Required
@@ -26922,7 +26804,6 @@ Myanmar,Montenegro,Visa Required
 Myanmar,Montserrat,Visa Free
 Myanmar,Morocco,Visa Required
 Myanmar,Mozambique,Visa Free
-Myanmar,Myanmar,N/A
 Myanmar,Namibia,Visa Required
 Myanmar,Nauru,Visa Required
 Myanmar,Nepal,Visa Free
@@ -27150,7 +27031,6 @@ Namibia,Montserrat,Visa Free
 Namibia,Morocco,Visa Required
 Namibia,Mozambique,Visa Free
 Namibia,Myanmar,Visa Required
-Namibia,Namibia,N/A
 Namibia,Nauru,Visa Required
 Namibia,Nepal,Visa Free
 Namibia,Netherlands,Visa Required
@@ -27378,7 +27258,6 @@ Nauru,Morocco,Visa Required
 Nauru,Mozambique,Visa Free
 Nauru,Myanmar,Visa Required
 Nauru,Namibia,Visa Required
-Nauru,Nauru,N/A
 Nauru,Nepal,Visa Free
 Nauru,Netherlands,Visa Required
 Nauru,New Caledonia,Visa Free
@@ -27606,7 +27485,6 @@ Nepal,Mozambique,Visa Free
 Nepal,Myanmar,Visa Free
 Nepal,Namibia,Visa Required
 Nepal,Nauru,Visa Required
-Nepal,Nepal,N/A
 Nepal,Netherlands,Visa Required
 Nepal,New Caledonia,Visa Required
 Nepal,New Zealand,Visa Required
@@ -27834,7 +27712,6 @@ Netherlands,Myanmar,Visa Free
 Netherlands,Namibia,Visa Free
 Netherlands,Nauru,Visa Required
 Netherlands,Nepal,Visa Free
-Netherlands,Netherlands,N/A
 Netherlands,New Caledonia,Visa Free
 Netherlands,New Zealand,Visa Free
 Netherlands,Nicaragua,Visa Free
@@ -28063,7 +27940,6 @@ New Zealand,Nauru,Visa Required
 New Zealand,Nepal,Visa Free
 New Zealand,Netherlands,Visa Free
 New Zealand,New Caledonia,Visa Free
-New Zealand,New Zealand,N/A
 New Zealand,Nicaragua,Visa Free
 New Zealand,Niger,Visa Required
 New Zealand,Nigeria,Visa Required
@@ -28291,7 +28167,6 @@ Nicaragua,Nepal,Visa Free
 Nicaragua,Netherlands,Visa Free
 Nicaragua,New Caledonia,Visa Free
 Nicaragua,New Zealand,Visa Required
-Nicaragua,Nicaragua,N/A
 Nicaragua,Niger,Visa Required
 Nicaragua,Nigeria,Visa Required
 Nicaragua,Niue,Visa Free
@@ -28519,7 +28394,6 @@ Niger,Netherlands,Visa Required
 Niger,New Caledonia,Visa Required
 Niger,New Zealand,Visa Required
 Niger,Nicaragua,Visa Free
-Niger,Niger,N/A
 Niger,Nigeria,Visa Free
 Niger,Niue,Visa Free
 Niger,North Korea,Visa Required
@@ -28747,7 +28621,6 @@ Nigeria,New Caledonia,Visa Required
 Nigeria,New Zealand,Visa Required
 Nigeria,Nicaragua,Visa Required
 Nigeria,Niger,Visa Free
-Nigeria,Nigeria,N/A
 Nigeria,Niue,Visa Free
 Nigeria,North Korea,Visa Required
 Nigeria,North Macedonia,Visa Required
@@ -28976,7 +28849,6 @@ North Korea,Nicaragua,Visa Free
 North Korea,Niger,Visa Required
 North Korea,Nigeria,Visa Required
 North Korea,Niue,Visa Free
-North Korea,North Korea,N/A
 North Korea,North Macedonia,Visa Required
 North Korea,Northern Mariana Islands,Visa Required
 North Korea,Norway,Visa Required
@@ -29204,7 +29076,6 @@ North Macedonia,Niger,Visa Required
 North Macedonia,Nigeria,Visa Required
 North Macedonia,Niue,Visa Free
 North Macedonia,North Korea,Visa Required
-North Macedonia,North Macedonia,N/A
 North Macedonia,Northern Mariana Islands,Visa Required
 North Macedonia,Norway,Visa Free
 North Macedonia,Oman,Visa Free
@@ -29433,7 +29304,6 @@ Norway,Niue,Visa Free
 Norway,North Korea,Visa Required
 Norway,North Macedonia,Visa Free
 Norway,Northern Mariana Islands,Visa Free
-Norway,Norway,N/A
 Norway,Oman,Visa Free
 Norway,Pakistan,Visa Required
 Norway,Palau Islands,Visa Free
@@ -29661,7 +29531,6 @@ Oman,North Korea,Visa Required
 Oman,North Macedonia,Visa Required
 Oman,Northern Mariana Islands,Visa Required
 Oman,Norway,Visa Required
-Oman,Oman,N/A
 Oman,Pakistan,Visa Free
 Oman,Palau Islands,Visa Free
 Oman,Palestinian Territory,Visa Required
@@ -29889,7 +29758,6 @@ Pakistan,North Macedonia,Visa Required
 Pakistan,Northern Mariana Islands,Visa Required
 Pakistan,Norway,Visa Required
 Pakistan,Oman,Visa Required
-Pakistan,Pakistan,N/A
 Pakistan,Palau Islands,Visa Free
 Pakistan,Palestinian Territory,Visa Required
 Pakistan,Panama,Visa Required
@@ -30117,7 +29985,6 @@ Palau Islands,Northern Mariana Islands,Visa Free
 Palau Islands,Norway,Visa Free
 Palau Islands,Oman,Visa Required
 Palau Islands,Pakistan,Visa Required
-Palau Islands,Palau Islands,N/A
 Palau Islands,Palestinian Territory,Visa Free
 Palau Islands,Panama,Visa Free
 Palau Islands,Papua New Guinea,Visa Free
@@ -30345,7 +30212,6 @@ Palestinian Territory,Norway,Visa Required
 Palestinian Territory,Oman,Visa Required
 Palestinian Territory,Pakistan,Visa Required
 Palestinian Territory,Palau Islands,Visa Free
-Palestinian Territory,Palestinian Territory,N/A
 Palestinian Territory,Panama,Visa Required
 Palestinian Territory,Papua New Guinea,Visa Required
 Palestinian Territory,Paraguay,Visa Required
@@ -30573,7 +30439,6 @@ Panama,Oman,Visa Required
 Panama,Pakistan,Visa Required
 Panama,Palau Islands,Visa Free
 Panama,Palestinian Territory,Visa Free
-Panama,Panama,N/A
 Panama,Papua New Guinea,Visa Required
 Panama,Paraguay,Visa Free
 Panama,Peru,Visa Free
@@ -30801,7 +30666,6 @@ Papua New Guinea,Pakistan,Visa Required
 Papua New Guinea,Palau Islands,Visa Free
 Papua New Guinea,Palestinian Territory,Visa Free
 Papua New Guinea,Panama,Visa Free
-Papua New Guinea,Papua New Guinea,N/A
 Papua New Guinea,Paraguay,Visa Required
 Papua New Guinea,Peru,Visa Free
 Papua New Guinea,Philippines,Visa Free
@@ -31029,7 +30893,6 @@ Paraguay,Palau Islands,Visa Free
 Paraguay,Palestinian Territory,Visa Free
 Paraguay,Panama,Visa Free
 Paraguay,Papua New Guinea,Visa Required
-Paraguay,Paraguay,N/A
 Paraguay,Peru,Visa Free
 Paraguay,Philippines,Visa Free
 Paraguay,Poland,Visa Free
@@ -31257,7 +31120,6 @@ Peru,Palestinian Territory,Visa Free
 Peru,Panama,Visa Free
 Peru,Papua New Guinea,Visa Required
 Peru,Paraguay,Visa Free
-Peru,Peru,N/A
 Peru,Philippines,Visa Free
 Peru,Poland,Visa Free
 Peru,Portugal,Visa Free
@@ -31485,7 +31347,6 @@ Philippines,Panama,Visa Required
 Philippines,Papua New Guinea,Visa Required
 Philippines,Paraguay,Visa Required
 Philippines,Peru,Visa Free
-Philippines,Philippines,N/A
 Philippines,Poland,Visa Required
 Philippines,Portugal,Visa Required
 Philippines,Puerto Rico,Visa Required
@@ -31713,7 +31574,6 @@ Poland,Papua New Guinea,Visa Required
 Poland,Paraguay,Visa Free
 Poland,Peru,Visa Free
 Poland,Philippines,Visa Free
-Poland,Poland,N/A
 Poland,Portugal,Visa Free
 Poland,Puerto Rico,Visa Free
 Poland,Qatar,Visa Free
@@ -31941,7 +31801,6 @@ Portugal,Paraguay,Visa Free
 Portugal,Peru,Visa Free
 Portugal,Philippines,Visa Free
 Portugal,Poland,Visa Free
-Portugal,Portugal,N/A
 Portugal,Puerto Rico,Visa Free
 Portugal,Qatar,Visa Free
 Portugal,Reunion,Visa Free
@@ -32170,7 +32029,6 @@ Qatar,Philippines,Visa Free
 Qatar,Poland,Visa Required
 Qatar,Portugal,Visa Required
 Qatar,Puerto Rico,Visa Free
-Qatar,Qatar,N/A
 Qatar,Reunion,Visa Required
 Qatar,Romania,Visa Required
 Qatar,Russian Federation,Visa Free
@@ -32399,7 +32257,6 @@ Romania,Portugal,Visa Free
 Romania,Puerto Rico,Visa Required
 Romania,Qatar,Visa Free
 Romania,Reunion,Visa Free
-Romania,Romania,N/A
 Romania,Russian Federation,Visa Required
 Romania,Rwanda,Visa Free
 Romania,Samoa,Visa Free
@@ -32627,7 +32484,6 @@ Russian Federation,Puerto Rico,Visa Required
 Russian Federation,Qatar,Visa Free
 Russian Federation,Reunion,Visa Required
 Russian Federation,Romania,Visa Required
-Russian Federation,Russian Federation,N/A
 Russian Federation,Rwanda,Visa Free
 Russian Federation,Samoa,Visa Free
 Russian Federation,San Marino,Visa Required
@@ -32855,7 +32711,6 @@ Rwanda,Qatar,Visa Free
 Rwanda,Reunion,Visa Required
 Rwanda,Romania,Visa Required
 Rwanda,Russian Federation,Visa Required
-Rwanda,Rwanda,N/A
 Rwanda,Samoa,Visa Free
 Rwanda,San Marino,Visa Required
 Rwanda,Sao Tome and Principe,Visa Free
@@ -33083,7 +32938,6 @@ Samoa,Reunion,Visa Free
 Samoa,Romania,Visa Free
 Samoa,Russian Federation,Visa Free
 Samoa,Rwanda,Visa Free
-Samoa,Samoa,N/A
 Samoa,San Marino,Visa Free
 Samoa,Sao Tome and Principe,Visa Required
 Samoa,Saudi Arabia,Visa Required
@@ -33311,7 +33165,6 @@ San Marino,Romania,Visa Free
 San Marino,Russian Federation,Visa Required
 San Marino,Rwanda,Visa Free
 San Marino,Samoa,Visa Free
-San Marino,San Marino,N/A
 San Marino,Sao Tome and Principe,Visa Free
 San Marino,Saudi Arabia,Visa Free
 San Marino,Senegal,Visa Free
@@ -33539,7 +33392,6 @@ Sao Tome and Principe,Russian Federation,Visa Required
 Sao Tome and Principe,Rwanda,Visa Free
 Sao Tome and Principe,Samoa,Visa Free
 Sao Tome and Principe,San Marino,Visa Required
-Sao Tome and Principe,Sao Tome and Principe,N/A
 Sao Tome and Principe,Saudi Arabia,Visa Required
 Sao Tome and Principe,Senegal,Visa Required
 Sao Tome and Principe,Serbia,Visa Required
@@ -33767,7 +33619,6 @@ Saudi Arabia,Rwanda,Visa Free
 Saudi Arabia,Samoa,Visa Free
 Saudi Arabia,San Marino,Visa Required
 Saudi Arabia,Sao Tome and Principe,Visa Required
-Saudi Arabia,Saudi Arabia,N/A
 Saudi Arabia,Senegal,Visa Required
 Saudi Arabia,Serbia,Visa Required
 Saudi Arabia,Seychelles,Visa Free
@@ -33995,7 +33846,6 @@ Senegal,Samoa,Visa Free
 Senegal,San Marino,Visa Required
 Senegal,Sao Tome and Principe,Visa Required
 Senegal,Saudi Arabia,Visa Required
-Senegal,Senegal,N/A
 Senegal,Serbia,Visa Required
 Senegal,Seychelles,Visa Free
 Senegal,Sierra Leone,Visa Free
@@ -34223,7 +34073,6 @@ Serbia,San Marino,Visa Free
 Serbia,Sao Tome and Principe,Visa Required
 Serbia,Saudi Arabia,Visa Required
 Serbia,Senegal,Visa Required
-Serbia,Serbia,N/A
 Serbia,Seychelles,Visa Free
 Serbia,Sierra Leone,Visa Required
 Serbia,Singapore,Visa Free
@@ -34451,7 +34300,6 @@ Seychelles,Sao Tome and Principe,Visa Required
 Seychelles,Saudi Arabia,Visa Free
 Seychelles,Senegal,Visa Free
 Seychelles,Serbia,Visa Free
-Seychelles,Seychelles,N/A
 Seychelles,Sierra Leone,Visa Free
 Seychelles,Singapore,Visa Free
 Seychelles,Slovakia,Visa Free
@@ -34679,7 +34527,6 @@ Sierra Leone,Saudi Arabia,Visa Required
 Sierra Leone,Senegal,Visa Free
 Sierra Leone,Serbia,Visa Required
 Sierra Leone,Seychelles,Visa Free
-Sierra Leone,Sierra Leone,N/A
 Sierra Leone,Singapore,Visa Free
 Sierra Leone,Slovakia,Visa Required
 Sierra Leone,Slovenia,Visa Required
@@ -34907,7 +34754,6 @@ Singapore,Senegal,Visa Free
 Singapore,Serbia,Visa Free
 Singapore,Seychelles,Visa Free
 Singapore,Sierra Leone,Visa Free
-Singapore,Singapore,N/A
 Singapore,Slovakia,Visa Free
 Singapore,Slovenia,Visa Free
 Singapore,Solomon Islands,Visa Free
@@ -35135,7 +34981,6 @@ Slovakia,Serbia,Visa Free
 Slovakia,Seychelles,Visa Free
 Slovakia,Sierra Leone,Visa Free
 Slovakia,Singapore,Visa Free
-Slovakia,Slovakia,N/A
 Slovakia,Slovenia,Visa Free
 Slovakia,Solomon Islands,Visa Free
 Slovakia,Somalia,Visa Free
@@ -35363,7 +35208,6 @@ Slovenia,Seychelles,Visa Free
 Slovenia,Sierra Leone,Visa Free
 Slovenia,Singapore,Visa Free
 Slovenia,Slovakia,Visa Free
-Slovenia,Slovenia,N/A
 Slovenia,Solomon Islands,Visa Free
 Slovenia,Somalia,Visa Free
 Slovenia,South Africa,Visa Required
@@ -35591,7 +35435,6 @@ Solomon Islands,Sierra Leone,Visa Free
 Solomon Islands,Singapore,Visa Free
 Solomon Islands,Slovakia,Visa Free
 Solomon Islands,Slovenia,Visa Free
-Solomon Islands,Solomon Islands,N/A
 Solomon Islands,Somalia,Visa Free
 Solomon Islands,South Africa,Visa Required
 Solomon Islands,South Korea,Visa Free
@@ -35819,7 +35662,6 @@ Somalia,Singapore,Visa Required
 Somalia,Slovakia,Visa Required
 Somalia,Slovenia,Visa Required
 Somalia,Solomon Islands,Visa Required
-Somalia,Somalia,N/A
 Somalia,South Africa,Visa Required
 Somalia,South Korea,Visa Required
 Somalia,South Sudan,Visa Required
@@ -36047,7 +35889,6 @@ South Africa,Slovakia,Visa Required
 South Africa,Slovenia,Visa Required
 South Africa,Solomon Islands,Visa Required
 South Africa,Somalia,Visa Free
-South Africa,South Africa,N/A
 South Africa,South Korea,Visa Free
 South Africa,South Sudan,Visa Required
 South Africa,Spain,Visa Required
@@ -36275,7 +36116,6 @@ South Korea,Slovenia,Visa Free
 South Korea,Solomon Islands,Visa Free
 South Korea,Somalia,Visa Required
 South Korea,South Africa,Visa Free
-South Korea,South Korea,N/A
 South Korea,South Sudan,Visa Required
 South Korea,Spain,Visa Free
 South Korea,Sri Lanka,Visa Free
@@ -36503,7 +36343,6 @@ South Sudan,Solomon Islands,Visa Required
 South Sudan,Somalia,Visa Free
 South Sudan,South Africa,Visa Required
 South Sudan,South Korea,Visa Required
-South Sudan,South Sudan,N/A
 South Sudan,Spain,Visa Required
 South Sudan,Sri Lanka,Visa Free
 South Sudan,St. Helena,Visa Required
@@ -36731,7 +36570,6 @@ Spain,Somalia,Visa Free
 Spain,South Africa,Visa Free
 Spain,South Korea,Visa Free
 Spain,South Sudan,Visa Required
-Spain,Spain,N/A
 Spain,Sri Lanka,Visa Free
 Spain,St. Helena,Visa Free
 Spain,St. Kitts and Nevis,Visa Free
@@ -36959,7 +36797,6 @@ Sri Lanka,South Africa,Visa Required
 Sri Lanka,South Korea,Visa Required
 Sri Lanka,South Sudan,Visa Required
 Sri Lanka,Spain,Visa Required
-Sri Lanka,Sri Lanka,N/A
 Sri Lanka,St. Helena,Visa Required
 Sri Lanka,St. Kitts and Nevis,Visa Free
 Sri Lanka,St. Lucia,Visa Required
@@ -37188,7 +37025,6 @@ St. Kitts and Nevis,South Sudan,Visa Required
 St. Kitts and Nevis,Spain,Visa Free
 St. Kitts and Nevis,Sri Lanka,Visa Free
 St. Kitts and Nevis,St. Helena,Visa Free
-St. Kitts and Nevis,St. Kitts and Nevis,N/A
 St. Kitts and Nevis,St. Lucia,Visa Free
 St. Kitts and Nevis,St. Maarten,Visa Free
 St. Kitts and Nevis,St. Vincent and the Grenadines,Visa Free
@@ -37416,7 +37252,6 @@ St. Lucia,Spain,Visa Free
 St. Lucia,Sri Lanka,Visa Free
 St. Lucia,St. Helena,Visa Free
 St. Lucia,St. Kitts and Nevis,Visa Free
-St. Lucia,St. Lucia,N/A
 St. Lucia,St. Maarten,Visa Free
 St. Lucia,St. Vincent and the Grenadines,Visa Free
 St. Lucia,Sudan,Visa Required
@@ -37645,7 +37480,6 @@ St. Vincent and the Grenadines,St. Helena,Visa Free
 St. Vincent and the Grenadines,St. Kitts and Nevis,Visa Free
 St. Vincent and the Grenadines,St. Lucia,Visa Free
 St. Vincent and the Grenadines,St. Maarten,Visa Free
-St. Vincent and the Grenadines,St. Vincent and the Grenadines,N/A
 St. Vincent and the Grenadines,Sudan,Visa Required
 St. Vincent and the Grenadines,Suriname,Visa Free
 St. Vincent and the Grenadines,Sweden,Visa Free
@@ -37873,7 +37707,6 @@ Sudan,St. Kitts and Nevis,Visa Free
 Sudan,St. Lucia,Visa Free
 Sudan,St. Maarten,Visa Required
 Sudan,St. Vincent and the Grenadines,Visa Free
-Sudan,Sudan,N/A
 Sudan,Suriname,Visa Free
 Sudan,Sweden,Visa Required
 Sudan,Switzerland,Visa Required
@@ -38101,7 +37934,6 @@ Suriname,St. Lucia,Visa Free
 Suriname,St. Maarten,Visa Free
 Suriname,St. Vincent and the Grenadines,Visa Free
 Suriname,Sudan,Visa Required
-Suriname,Suriname,N/A
 Suriname,Sweden,Visa Required
 Suriname,Switzerland,Visa Required
 Suriname,Syria,Visa Required
@@ -38329,7 +38161,6 @@ Sweden,St. Maarten,Visa Free
 Sweden,St. Vincent and the Grenadines,Visa Free
 Sweden,Sudan,Visa Required
 Sweden,Suriname,Visa Free
-Sweden,Sweden,N/A
 Sweden,Switzerland,Visa Free
 Sweden,Syria,Visa Required
 Sweden,Taiwan (Chinese Taipei),Visa Free
@@ -38557,7 +38388,6 @@ Switzerland,St. Vincent and the Grenadines,Visa Free
 Switzerland,Sudan,Visa Required
 Switzerland,Suriname,Visa Free
 Switzerland,Sweden,Visa Free
-Switzerland,Switzerland,N/A
 Switzerland,Syria,Visa Required
 Switzerland,Taiwan (Chinese Taipei),Visa Free
 Switzerland,Tajikistan,Visa Free
@@ -38785,7 +38615,6 @@ Syria,Sudan,Visa Free
 Syria,Suriname,Visa Required
 Syria,Sweden,Visa Required
 Syria,Switzerland,Visa Required
-Syria,Syria,N/A
 Syria,Taiwan (Chinese Taipei),Visa Required
 Syria,Tajikistan,Visa Required
 Syria,Tanzania,Visa Required
@@ -39013,7 +38842,6 @@ Taiwan (Chinese Taipei),Suriname,Visa Free
 Taiwan (Chinese Taipei),Sweden,Visa Free
 Taiwan (Chinese Taipei),Switzerland,Visa Free
 Taiwan (Chinese Taipei),Syria,Visa Required
-Taiwan (Chinese Taipei),Taiwan (Chinese Taipei),N/A
 Taiwan (Chinese Taipei),Tajikistan,Visa Required
 Taiwan (Chinese Taipei),Tanzania,Visa Free
 Taiwan (Chinese Taipei),Thailand,Visa Free
@@ -39241,7 +39069,6 @@ Tajikistan,Sweden,Visa Required
 Tajikistan,Switzerland,Visa Required
 Tajikistan,Syria,Visa Free
 Tajikistan,Taiwan (Chinese Taipei),Visa Required
-Tajikistan,Tajikistan,N/A
 Tajikistan,Tanzania,Visa Required
 Tajikistan,Thailand,Visa Required
 Tajikistan,The Gambia,Visa Required
@@ -39469,7 +39296,6 @@ Tanzania,Switzerland,Visa Required
 Tanzania,Syria,Visa Required
 Tanzania,Taiwan (Chinese Taipei),Visa Required
 Tanzania,Tajikistan,Visa Required
-Tanzania,Tanzania,N/A
 Tanzania,Thailand,Visa Required
 Tanzania,The Gambia,Visa Free
 Tanzania,Timor-Leste,Visa Free
@@ -39697,7 +39523,6 @@ Thailand,Syria,Visa Required
 Thailand,Taiwan (Chinese Taipei),Visa Free
 Thailand,Tajikistan,Visa Free
 Thailand,Tanzania,Visa Free
-Thailand,Thailand,N/A
 Thailand,The Gambia,Visa Required
 Thailand,Timor-Leste,Visa Free
 Thailand,Togo,Visa Required
@@ -39925,7 +39750,6 @@ The Gambia,Taiwan (Chinese Taipei),Visa Required
 The Gambia,Tajikistan,Visa Required
 The Gambia,Tanzania,Visa Free
 The Gambia,Thailand,Visa Required
-The Gambia,The Gambia,N/A
 The Gambia,Timor-Leste,Visa Free
 The Gambia,Togo,Visa Free
 The Gambia,Tonga,Visa Required
@@ -40153,7 +39977,6 @@ Timor-Leste,Tajikistan,Visa Required
 Timor-Leste,Tanzania,Visa Free
 Timor-Leste,Thailand,Visa Free
 Timor-Leste,The Gambia,Visa Free
-Timor-Leste,Timor-Leste,N/A
 Timor-Leste,Togo,Visa Required
 Timor-Leste,Tonga,Visa Required
 Timor-Leste,Trinidad and Tobago,Visa Required
@@ -40381,7 +40204,6 @@ Togo,Tanzania,Visa Free
 Togo,Thailand,Visa Required
 Togo,The Gambia,Visa Free
 Togo,Timor-Leste,Visa Free
-Togo,Togo,N/A
 Togo,Tonga,Visa Required
 Togo,Trinidad and Tobago,Visa Required
 Togo,Tunisia,Visa Required
@@ -40609,7 +40431,6 @@ Tonga,Thailand,Visa Free
 Tonga,The Gambia,Visa Free
 Tonga,Timor-Leste,Visa Free
 Tonga,Togo,Visa Required
-Tonga,Tonga,N/A
 Tonga,Trinidad and Tobago,Visa Free
 Tonga,Tunisia,Visa Required
 Tonga,Turkmenistan,Visa Required
@@ -40837,7 +40658,6 @@ Trinidad and Tobago,The Gambia,Visa Free
 Trinidad and Tobago,Timor-Leste,Visa Free
 Trinidad and Tobago,Togo,Visa Required
 Trinidad and Tobago,Tonga,Visa Required
-Trinidad and Tobago,Trinidad and Tobago,N/A
 Trinidad and Tobago,Tunisia,Visa Required
 Trinidad and Tobago,Turkmenistan,Visa Required
 Trinidad and Tobago,Turks and Caicos Islands,Visa Free
@@ -41065,7 +40885,6 @@ Tunisia,Timor-Leste,Visa Free
 Tunisia,Togo,Visa Required
 Tunisia,Tonga,Visa Required
 Tunisia,Trinidad and Tobago,Visa Required
-Tunisia,Tunisia,N/A
 Tunisia,Turkmenistan,Visa Required
 Tunisia,Turks and Caicos Islands,Visa Required
 Tunisia,Tuvalu,Visa Free
@@ -41293,7 +41112,6 @@ Turkmenistan,Togo,Visa Required
 Turkmenistan,Tonga,Visa Required
 Turkmenistan,Trinidad and Tobago,Visa Required
 Turkmenistan,Tunisia,Visa Required
-Turkmenistan,Turkmenistan,N/A
 Turkmenistan,Turks and Caicos Islands,Visa Required
 Turkmenistan,Tuvalu,Visa Free
 Turkmenistan,Türkiye,Visa Required
@@ -41522,7 +41340,6 @@ Tuvalu,Trinidad and Tobago,Visa Free
 Tuvalu,Tunisia,Visa Required
 Tuvalu,Turkmenistan,Visa Required
 Tuvalu,Turks and Caicos Islands,Visa Required
-Tuvalu,Tuvalu,N/A
 Tuvalu,Türkiye,Visa Required
 Tuvalu,US Virgin Islands,Visa Required
 Tuvalu,Uganda,Visa Required
@@ -41750,7 +41567,6 @@ Türkiye,Tunisia,Visa Free
 Türkiye,Turkmenistan,Visa Required
 Türkiye,Turks and Caicos Islands,Visa Free
 Türkiye,Tuvalu,Visa Free
-Türkiye,Türkiye,N/A
 Türkiye,US Virgin Islands,Visa Required
 Türkiye,Uganda,Visa Required
 Türkiye,Ukraine,Visa Free
@@ -41979,7 +41795,6 @@ Uganda,Turks and Caicos Islands,Visa Required
 Uganda,Tuvalu,Visa Free
 Uganda,Türkiye,Visa Required
 Uganda,US Virgin Islands,Visa Required
-Uganda,Uganda,N/A
 Uganda,Ukraine,Visa Required
 Uganda,United Arab Emirates,Visa Required
 Uganda,United Kingdom,Visa Required
@@ -42207,7 +42022,6 @@ Ukraine,Tuvalu,Visa Free
 Ukraine,Türkiye,Visa Free
 Ukraine,US Virgin Islands,Visa Required
 Ukraine,Uganda,Visa Required
-Ukraine,Ukraine,N/A
 Ukraine,United Arab Emirates,Visa Free
 Ukraine,United Kingdom,Visa Required
 Ukraine,United States,Visa Required
@@ -42435,7 +42249,6 @@ United Arab Emirates,Türkiye,Visa Free
 United Arab Emirates,US Virgin Islands,Visa Required
 United Arab Emirates,Uganda,Visa Required
 United Arab Emirates,Ukraine,Visa Free
-United Arab Emirates,United Arab Emirates,N/A
 United Arab Emirates,United Kingdom,Visa Free
 United Arab Emirates,United States,Visa Required
 United Arab Emirates,Uruguay,Visa Free
@@ -42663,7 +42476,6 @@ United Kingdom,US Virgin Islands,Visa Free
 United Kingdom,Uganda,Visa Required
 United Kingdom,Ukraine,Visa Free
 United Kingdom,United Arab Emirates,Visa Free
-United Kingdom,United Kingdom,N/A
 United Kingdom,United States,Visa Free
 United Kingdom,Uruguay,Visa Free
 United Kingdom,Uzbekistan,Visa Free
@@ -42891,7 +42703,6 @@ United States,Uganda,Visa Required
 United States,Ukraine,Visa Free
 United States,United Arab Emirates,Visa Free
 United States,United Kingdom,Visa Free
-United States,United States,N/A
 United States,Uruguay,Visa Free
 United States,Uzbekistan,Visa Required
 United States,Vanuatu,Visa Free
@@ -43119,7 +42930,6 @@ Uruguay,Ukraine,Visa Free
 Uruguay,United Arab Emirates,Visa Free
 Uruguay,United Kingdom,Visa Free
 Uruguay,United States,Visa Required
-Uruguay,Uruguay,N/A
 Uruguay,Uzbekistan,Visa Required
 Uruguay,Vanuatu,Visa Free
 Uruguay,Vatican City,Visa Free
@@ -43347,7 +43157,6 @@ Uzbekistan,United Arab Emirates,Visa Free
 Uzbekistan,United Kingdom,Visa Required
 Uzbekistan,United States,Visa Required
 Uzbekistan,Uruguay,Visa Required
-Uzbekistan,Uzbekistan,N/A
 Uzbekistan,Vanuatu,Visa Required
 Uzbekistan,Vatican City,Visa Required
 Uzbekistan,Venezuela,Visa Required
@@ -43575,7 +43384,6 @@ Vanuatu,United Kingdom,Visa Required
 Vanuatu,United States,Visa Required
 Vanuatu,Uruguay,Visa Required
 Vanuatu,Uzbekistan,Visa Required
-Vanuatu,Vanuatu,N/A
 Vanuatu,Vatican City,Visa Required
 Vanuatu,Venezuela,Visa Required
 Vanuatu,Vietnam,Visa Required
@@ -43803,7 +43611,6 @@ Vatican City,United States,Visa Required
 Vatican City,Uruguay,Visa Free
 Vatican City,Uzbekistan,Visa Free
 Vatican City,Vanuatu,Visa Free
-Vatican City,Vatican City,N/A
 Vatican City,Venezuela,Visa Required
 Vatican City,Vietnam,Visa Required
 Vatican City,Yemen,Visa Required
@@ -44031,7 +43838,6 @@ Venezuela,Uruguay,Visa Free
 Venezuela,Uzbekistan,Visa Required
 Venezuela,Vanuatu,Visa Required
 Venezuela,Vatican City,Visa Free
-Venezuela,Venezuela,N/A
 Venezuela,Vietnam,Visa Required
 Venezuela,Yemen,Visa Required
 Venezuela,Zambia,Visa Free
@@ -44259,7 +44065,6 @@ Vietnam,Uzbekistan,Visa Required
 Vietnam,Vanuatu,Visa Required
 Vietnam,Vatican City,Visa Required
 Vietnam,Venezuela,Visa Required
-Vietnam,Vietnam,N/A
 Vietnam,Yemen,Visa Required
 Vietnam,Zambia,Visa Required
 Vietnam,Zimbabwe,Visa Required
@@ -44487,7 +44292,6 @@ Yemen,Vanuatu,Visa Required
 Yemen,Vatican City,Visa Required
 Yemen,Venezuela,Visa Required
 Yemen,Vietnam,Visa Required
-Yemen,Yemen,N/A
 Yemen,Zambia,Visa Required
 Yemen,Zimbabwe,Visa Required
 Yemen,eSwatini,Visa Required
@@ -44715,7 +44519,6 @@ Zambia,Vatican City,Visa Required
 Zambia,Venezuela,Visa Required
 Zambia,Vietnam,Visa Required
 Zambia,Yemen,Visa Required
-Zambia,Zambia,N/A
 Zambia,Zimbabwe,Visa Free
 Zambia,eSwatini,Visa Free
 Zimbabwe,Afghanistan,Visa Required
@@ -44943,7 +44746,6 @@ Zimbabwe,Venezuela,Visa Required
 Zimbabwe,Vietnam,Visa Required
 Zimbabwe,Yemen,Visa Required
 Zimbabwe,Zambia,Visa Free
-Zimbabwe,Zimbabwe,N/A
 Zimbabwe,eSwatini,Visa Free
 eSwatini,Afghanistan,Visa Required
 eSwatini,Albania,Visa Required
@@ -45171,4 +44973,3 @@ eSwatini,Vietnam,Visa Required
 eSwatini,Yemen,Visa Required
 eSwatini,Zambia,Visa Free
 eSwatini,Zimbabwe,Visa Free
-eSwatini,eSwatini,N/A
