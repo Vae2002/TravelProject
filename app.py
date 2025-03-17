@@ -393,7 +393,6 @@ generator = pipeline(
     model="gpt2",
     do_sample=False,
     temperature=0.0,
-    # Instead of max_length=150, use max_new_tokens=50
     max_new_tokens=50
 )
 
@@ -410,7 +409,7 @@ def generate_final_answer(query):
         + query
         + "\nAnswer:"
     )
-    result = generator(prompt, num_return_sequences=1)  # no max_length, using max_new_tokens
+    result = generator(prompt, num_return_sequences=1) 
     generated_text = result[0]["generated_text"]
     # Extract the answer from the text
     answer = generated_text.replace(prompt, "").strip().split("\n")[0].strip()
